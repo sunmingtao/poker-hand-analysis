@@ -1,6 +1,7 @@
 # Mistakes 
 
 Do not bluff unless I know opponent will fold. Do not value bet the river unless I know my hand is the best. 
+I bet because checking would look weak. 
 
 # Advice
 
