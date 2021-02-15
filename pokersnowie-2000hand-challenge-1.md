@@ -9,9 +9,9 @@ Total profit: -252.5
 
 ### Mistakes:
 
-1. Thin value bet or not on river
-2. KK on AA5 flop
-3. AK on mono flop
+1. Thin value bet or not on river. https://github.com/sunmingtao/poker-hand-analysis/issues/88
+2. KK on AA5 flop. https://github.com/sunmingtao/poker-hand-analysis/issues/86
+3. AK on mono flop. https://github.com/sunmingtao/poker-hand-analysis/issues/87
 4. AK 3bet UTG opener, get called, not hit on flop
 
 ## Session 2
