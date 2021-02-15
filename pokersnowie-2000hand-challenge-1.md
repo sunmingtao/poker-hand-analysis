@@ -13,3 +13,12 @@ Total profit: -252.5
 2. KK on AA5 flop
 3. AK on mono flop
 4. AK 3bet UTG opener, get called, not hit on flop
+
+## Session 2
+Date: 2021-02-15
+Hands: 203
+Error rate: 4.01
+Profit: 120.5
+
+Total hands: 406
+Total profit: -132
