@@ -38,3 +38,17 @@ Total profit: 141.5
 3. AAKK9 board, should bet with K? https://github.com/sunmingtao/poker-hand-analysis/issues/90
 4. River bluff, choose spot and size. https://github.com/sunmingtao/poker-hand-analysis/issues/95, https://github.com/sunmingtao/poker-hand-analysis/issues/96
 5. Bet too large with flush. https://github.com/sunmingtao/poker-hand-analysis/issues/92
+
+## Session 4
+Date: 2021-02-16
+Hands: 239
+Error rate: 10.43
+Profit: 188.75
+
+Total hands: 852
+Total profit: 330.25
+
+### Mistakes
+
+1. Preflop: 89s raise UTG+1, AQs 3bet UTG open
+2. TPTK value bet on river size is wrong: https://github.com/sunmingtao/poker-hand-analysis/issues/97
