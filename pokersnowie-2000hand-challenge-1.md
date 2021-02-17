@@ -62,7 +62,25 @@ Profit: 423
 Total hands: 1095
 Total profit: 753.25
 
+### Mistakes
+
 1. AK not sure whether/how much to value bet on river. https://github.com/sunmingtao/poker-hand-analysis/issues/100, https://github.com/sunmingtao/poker-hand-analysis/issues/97
 2. Preflop: A4s call 3bet in a multipway pot. AQo 3bet CO open. 
 3. Scared to face raise, so over play my hand. https://github.com/sunmingtao/poker-hand-analysis/issues/99
 4. AQ with gutshot not fire on turn in 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/101
+
+## Session 6
+Date: 2021-02-17
+Hands: 287
+Error rate: 11.68
+Profit: 107.25
+
+Total hands: 1382
+Total profit: 860.5
+
+### Mistakes
+
+1. Pick the wrong hand to bluff check raise the flop. https://github.com/sunmingtao/poker-hand-analysis/issues/102
+2. Pick the wrong spot to overbet bluff. https://github.com/sunmingtao/poker-hand-analysis/issues/103
+3. Don't know how to counter donk bet. https://github.com/sunmingtao/poker-hand-analysis/issues/104
+4. JJ not squeeze preflop. https://github.com/sunmingtao/poker-hand-analysis/issues/105
