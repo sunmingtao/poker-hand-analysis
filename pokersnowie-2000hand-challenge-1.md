@@ -52,3 +52,17 @@ Total profit: 330.25
 
 1. Preflop: 89s raise UTG+1, AQs 3bet UTG open
 2. TPTK value bet on river size is wrong: https://github.com/sunmingtao/poker-hand-analysis/issues/97
+
+## Session 5
+Date: 2021-02-17
+Hands: 243
+Error rate: 3.22
+Profit: 423
+
+Total hands: 1095
+Total profit: 753.25
+
+1. AK not sure whether/how much to value bet on river. https://github.com/sunmingtao/poker-hand-analysis/issues/100, https://github.com/sunmingtao/poker-hand-analysis/issues/97
+2. Preflop: A4s call 3bet in a multipway pot. AQo 3bet CO open. 
+3. Scared to face raise, so over play my hand. https://github.com/sunmingtao/poker-hand-analysis/issues/99
+4. AQ with gutshot not fire on turn in 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/101
