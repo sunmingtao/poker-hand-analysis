@@ -84,3 +84,24 @@ Total profit: 860.5
 2. Pick the wrong spot to overbet bluff. https://github.com/sunmingtao/poker-hand-analysis/issues/103
 3. Don't know how to counter donk bet. https://github.com/sunmingtao/poker-hand-analysis/issues/104
 4. JJ not squeeze preflop. https://github.com/sunmingtao/poker-hand-analysis/issues/105
+
+## Session 7
+Date: 2021-02-17
+Hands: 171
+Error rate: 6.19
+Profit: 114
+
+Total hands: 1553
+Total profit: 974.5
+
+### Mistakes
+1. Don't know how to play 88 on 9 high board. https://github.com/sunmingtao/poker-hand-analysis/issues/107
+
+## Session 7
+Date: 2021-02-18
+Hands: 166
+Error rate: ？
+Profit: ？
+
+Total hands: ?
+Total profit: ?
