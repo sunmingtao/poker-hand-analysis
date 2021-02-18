@@ -100,8 +100,11 @@ Total profit: 974.5
 ## Session 7
 Date: 2021-02-18
 Hands: 166
-Error rate: ？
-Profit: ？
+Error rate: 12.86
+Profit: 207
 
-Total hands: ?
-Total profit: ?
+Total hands: 1739
+Total profit: 1181.5
+
+### Mistakes
+1. KK value bet river sizing is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/109
