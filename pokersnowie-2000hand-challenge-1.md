@@ -99,12 +99,25 @@ Total profit: 974.5
 
 ## Session 7
 Date: 2021-02-18
-Hands: 166
+Hands: 161
 Error rate: 12.86
 Profit: 207
 
-Total hands: 1739
+Total hands: 1734
 Total profit: 1181.5
 
 ### Mistakes
 1. KK value bet river sizing is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/109
+
+## Session 8
+Date: 2021-02-18
+Hands: 160
+Error rate: 2.74
+Profit: -164.5
+
+Total hands: 1899
+Total profit: 1017
+
+### Mistakes
+1. River bluff all in is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/110
+2. 2nd pair top kicker doesn't value bet on river. https://github.com/sunmingtao/poker-hand-analysis/issues/111
