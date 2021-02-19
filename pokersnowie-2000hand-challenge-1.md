@@ -97,7 +97,7 @@ Total profit: 974.5
 ### Mistakes
 1. Don't know how to play 88 on 9 high board. https://github.com/sunmingtao/poker-hand-analysis/issues/107
 
-## Session 7
+## Session 8
 Date: 2021-02-18
 Hands: 161
 Error rate: 12.86
@@ -109,7 +109,7 @@ Total profit: 1181.5
 ### Mistakes
 1. KK value bet river sizing is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/109
 
-## Session 8
+## Session 9
 Date: 2021-02-18
 Hands: 160
 Error rate: 2.74
@@ -122,7 +122,7 @@ Total profit: 1017
 1. River bluff all in is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/110
 2. 2nd pair top kicker doesn't value bet on river. https://github.com/sunmingtao/poker-hand-analysis/issues/111
 
-## Session 9
+## Session 10
 Date: 2021-02-19
 Hands: 199
 Error rate: 4.06
