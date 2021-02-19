@@ -9,3 +9,9 @@
 
 Use a random number to decide whether to call or fold when it comes to a close decision. 
 
+## Pokersnowie 2000 hand challenge 1
+Hands: 2073
+Error rate: 8.88
+Blunders: 45
+Profit: 847.5
+
