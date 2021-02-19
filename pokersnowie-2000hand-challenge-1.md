@@ -121,3 +121,14 @@ Total profit: 1017
 ### Mistakes
 1. River bluff all in is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/110
 2. 2nd pair top kicker doesn't value bet on river. https://github.com/sunmingtao/poker-hand-analysis/issues/111
+
+## Session 9
+Date: 2021-02-19
+Hands: 199
+Error rate: 4.06
+Profit: -169.5
+
+Total hands: 2098
+Total profit: 847.5
+
+### Mistakes
