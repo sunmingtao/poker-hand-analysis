@@ -132,3 +132,4 @@ Total hands: 2098
 Total profit: 847.5
 
 ### Mistakes
+1. Bluff with hand that has showdown value. https://github.com/sunmingtao/poker-hand-analysis/issues/112
