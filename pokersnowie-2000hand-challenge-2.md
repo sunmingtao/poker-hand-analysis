@@ -37,3 +37,16 @@ Total profit: -49.5
 ### Mistakes:
 1. Nut flush river bet sizing: https://github.com/sunmingtao/poker-hand-analysis/issues/118
 2. Nut flush draw pot on turn: https://github.com/sunmingtao/poker-hand-analysis/issues/119
+
+## Session 4
+Date: 2021-02-21
+Hands: 235
+Error rate: 5.36
+Profit: 87.5
+
+Total hands: 908
+Total profit: 38
+
+### Mistakes:
+1. Holding blocker on flush board not check raise river https://github.com/sunmingtao/poker-hand-analysis/issues/120
+2. OOP making too thin a value bet. https://github.com/sunmingtao/poker-hand-analysis/issues/121
