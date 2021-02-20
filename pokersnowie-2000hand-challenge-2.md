@@ -12,3 +12,15 @@ Total profit: -179
 1. not bet middle pair + strong draw on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/113
 2. Fear to call pot size bet on flop. https://github.com/sunmingtao/poker-hand-analysis/issues/114
 3. Get stacked: CO vs Btn, ATo vs 89s,  top two vs flush https://github.com/sunmingtao/poker-hand-analysis/issues/115
+
+## Session 2
+Date: 2021-02-20
+Hands: 262
+Error rate: 5.31
+Profit: 116.5
+
+Total hands: 473
+Total profit: -62.5
+
+### Mistakes:
+1. A6s squeeze at BB.  https://github.com/sunmingtao/poker-hand-analysis/issues/117
