@@ -24,3 +24,16 @@ Total profit: -62.5
 
 ### Mistakes:
 1. A6s squeeze at BB.  https://github.com/sunmingtao/poker-hand-analysis/issues/117
+
+## Session 3
+Date: 2021-02-20
+Hands: 200
+Error rate: 3.72
+Profit: 13
+
+Total hands: 673
+Total profit: -49.5
+
+### Mistakes:
+1. Nut flush river bet sizing: https://github.com/sunmingtao/poker-hand-analysis/issues/118
+2. Nut flush draw pot on turn: https://github.com/sunmingtao/poker-hand-analysis/issues/119
