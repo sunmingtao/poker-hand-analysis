@@ -110,3 +110,19 @@ Total profit: 240
 
 1. Check overpair JJ OOP in 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/133
 2. Not realise gutshot on lower board is good candiate to check raise bluff. https://github.com/sunmingtao/poker-hand-analysis/issues/134
+
+## Session 9
+Date: 2021-02-22
+Hands: 179
+Error rate: 1.95
+Profit: 2
+
+Total hands: 1875
+Total profit: 242
+
+## Session 10
+Date: 2021-02-22
+Hands: 
+Error rate: 
+Profit: 
+
