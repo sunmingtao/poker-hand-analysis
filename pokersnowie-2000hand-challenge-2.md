@@ -52,3 +52,19 @@ Total profit: 38
 2. OOP making too thin a value bet. https://github.com/sunmingtao/poker-hand-analysis/issues/121
 3. KQ BvB not 4bet. https://github.com/sunmingtao/poker-hand-analysis/issues/122
 4. Open ender not check when flop hits villain's range very hard. https://github.com/sunmingtao/poker-hand-analysis/issues/123
+
+## Session 5
+Date: 2021-02-21
+Hands: 223
+Error rate: 8.98
+Profit: 69
+
+Total hands: 1131
+Total profit: 107
+
+### Mistakes：
+
+1. Bet too thinly on river with flush board. https://github.com/sunmingtao/poker-hand-analysis/issues/124
+2. Not realise Mid pair top kicker is very strong after flop and turn checked through. https://github.com/sunmingtao/poker-hand-analysis/issues/125
+3. If not draw, river check raise should be very big even it's not a nutty hand. https://github.com/sunmingtao/poker-hand-analysis/issues/126
+4. Flush board is good for bluffing even with no equity after villain checks twice. https://github.com/sunmingtao/poker-hand-analysis/issues/127
