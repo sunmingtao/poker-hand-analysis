@@ -68,3 +68,18 @@ Total profit: 107
 2. Not realise Mid pair top kicker is very strong after flop and turn checked through. https://github.com/sunmingtao/poker-hand-analysis/issues/125
 3. If not draw, river check raise should be very big even it's not a nutty hand. https://github.com/sunmingtao/poker-hand-analysis/issues/126
 4. Flush board is good for bluffing even with no equity after villain checks twice. https://github.com/sunmingtao/poker-hand-analysis/issues/127
+
+## Session 6
+Date: 2021-02-21
+Hands: 211
+Error rate: 8.03
+Profit: -69
+
+Total hands: 1342
+Total profit: 38
+
+### Mistakes：
+
+1. Missed good opportunity to bluff on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/128
+2. Errornously think A high has showdown value. https://github.com/sunmingtao/poker-hand-analysis/issues/129
+3. A6s at SB should squeeze, but at BB is call. https://github.com/sunmingtao/poker-hand-analysis/issues/130
