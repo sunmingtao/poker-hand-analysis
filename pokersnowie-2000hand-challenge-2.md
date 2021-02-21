@@ -83,3 +83,16 @@ Total profit: 38
 1. Missed good opportunity to bluff on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/128
 2. Errornously think A high has showdown value. https://github.com/sunmingtao/poker-hand-analysis/issues/129
 3. A6s at SB should squeeze, but at BB is call. https://github.com/sunmingtao/poker-hand-analysis/issues/130
+
+## Session 7
+Date: 2021-02-21
+Hands: 101
+Error rate: 2.52
+Profit: -24
+
+Total hands: 1443
+Total profit: 14
+
+### Mistakes：
+
+1. Gutshot is too weak to check raise on flop. https://github.com/sunmingtao/poker-hand-analysis/issues/131
