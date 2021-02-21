@@ -50,3 +50,5 @@ Total profit: 38
 ### Mistakes:
 1. Holding blocker on flush board not check raise river https://github.com/sunmingtao/poker-hand-analysis/issues/120
 2. OOP making too thin a value bet. https://github.com/sunmingtao/poker-hand-analysis/issues/121
+3. KQ BvB not 4bet. https://github.com/sunmingtao/poker-hand-analysis/issues/122
+4. Open ender not check when flop hits villain's range very hard. https://github.com/sunmingtao/poker-hand-analysis/issues/123
