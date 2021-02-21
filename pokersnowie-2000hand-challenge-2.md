@@ -96,3 +96,16 @@ Total profit: 14
 ### Mistakes：
 
 1. Gutshot is too weak to check raise on flop. https://github.com/sunmingtao/poker-hand-analysis/issues/131
+
+## Session 7
+Date: 2021-02-21
+Hands: 253
+Error rate: 6.64
+Profit: 216
+
+Total hands: 1696
+Total profit: 240
+
+### Mistakes：
+
+1. 
