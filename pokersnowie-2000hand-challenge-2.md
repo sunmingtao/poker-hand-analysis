@@ -122,7 +122,15 @@ Total profit: 242
 
 ## Session 10
 Date: 2021-02-22
-Hands: 
-Error rate: 
-Profit: 
+Hands: 200
+Error rate: 10.51 
+Profit: -386.5
 
+Total hands: 1875
+Total profit: -154.5
+
+### Mistakes:
+
+1. 99 played poorly in multiway 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/135
+2. 66 played poorly in 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/136
+3. AA not know how to play river on QJT32 board. https://github.com/sunmingtao/poker-hand-analysis/issues?q=is%3Aissue+is%3Aclosed
