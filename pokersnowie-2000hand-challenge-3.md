@@ -25,3 +25,20 @@ Total profit: 10
 ### Mistakes:
 
 1. BB vs BTN AJs should 3bet. 
+
+## Session 3
+
+Date: 2021-02-23
+Hands: 253
+Error rate: 5.03
+Profit: 138
+
+Total hands: 621
+Total profit: 148
+
+### Mistakes:
+
+1. AT too nitty fold facing small donk bet on flop in 4bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/140
+2. KJ should fire on 8877 in 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/141
+3. K8o at BB should fold to UTG min open, and fold top pair no kicker on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/142
+4. AQo at BB shouldn't squeeze MP open and SB call. 
