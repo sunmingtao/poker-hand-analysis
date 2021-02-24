@@ -99,4 +99,4 @@ Total profit: 617
 
 1. Small flop, when to check, when to bet? https://github.com/sunmingtao/poker-hand-analysis/issues/147
 2. Mono board with gutshot, should steam. https://github.com/sunmingtao/poker-hand-analysis/issues/148
-3. AJo face btn 3bet should fold, AJs should call. 
+3. AJo face btn 3bet should fold, AJs should call, same as KQ. 
