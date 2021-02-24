@@ -42,3 +42,13 @@ Total profit: 148
 2. KJ should fire on 8877 in 3bet pot. https://github.com/sunmingtao/poker-hand-analysis/issues/141
 3. K8o at BB should fold to UTG min open, and fold top pair no kicker on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/142
 4. AQo at BB shouldn't squeeze MP open and SB call. 
+
+## Session 4
+
+Date: 2021-02-24
+Hands: 169
+Error rate: 5.77
+Profit: -0.5
+
+Total hands: 790
+Total profit: 147.5
