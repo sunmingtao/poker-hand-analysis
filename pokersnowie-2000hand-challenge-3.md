@@ -84,3 +84,19 @@ Total profit: 464
 2. JQs MP vs BTN 3bet should fold. (Dominated hand shouldn't play OOP)
 3. Top pair shouldn't cbet when there is straight possibility. https://github.com/sunmingtao/poker-hand-analysis/issues/145
 4. Middle pair call PSB on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/146
+
+## Session 7
+
+Date: 2021-02-24
+Hands: 160
+Error rate: 5.02
+Profit: 153
+
+Total hands: 1423
+Total profit: 617
+
+### Mistakes:
+
+1. Small flop, when to check, when to bet? https://github.com/sunmingtao/poker-hand-analysis/issues/147
+2. Mono board with gutshot, should steam. https://github.com/sunmingtao/poker-hand-analysis/issues/148
+3. AJo face btn 3bet should fold, AJs should call. 
