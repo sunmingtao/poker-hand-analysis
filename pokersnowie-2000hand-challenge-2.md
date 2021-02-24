@@ -126,7 +126,7 @@ Hands: 200
 Error rate: 10.51 
 Profit: -386.5
 
-Total hands: 1875
+Total hands: 2075
 Total profit: -154.5
 
 ### Mistakes:
