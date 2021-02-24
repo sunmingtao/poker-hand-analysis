@@ -52,3 +52,18 @@ Profit: -0.5
 
 Total hands: 790
 Total profit: 147.5
+
+## Session 5
+
+Date: 2021-02-24
+Hands: 269
+Error rate: 5.36
+Profit: 474
+
+Total hands: 1059
+Total profit: 621.5
+
+### Mistakes:
+
+1. Turn should lead when board pairs. https://github.com/sunmingtao/poker-hand-analysis/issues/143
+2. Board pair should slow down. https://github.com/sunmingtao/poker-hand-analysis/issues/144
