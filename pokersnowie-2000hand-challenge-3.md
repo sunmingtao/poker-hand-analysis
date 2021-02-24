@@ -66,4 +66,21 @@ Total profit: 621.5
 ### Mistakes:
 
 1. Turn should lead when board pairs. https://github.com/sunmingtao/poker-hand-analysis/issues/143
-2. Board pair should slow down. https://github.com/sunmingtao/poker-hand-analysis/issues/144
+2. Paird board should slow down. https://github.com/sunmingtao/poker-hand-analysis/issues/144
+
+## Session 6
+
+Date: 2021-02-24
+Hands: 204
+Error rate: 3.55
+Profit: -157.5
+
+Total hands: 1263
+Total profit: 464
+
+### Mistakes:
+
+1. A7s SB vs BB face 3bet should call.
+2. JQs MP vs BTN 3bet should fold. (Dominated hand shouldn't play OOP)
+3. Top pair shouldn't cbet when there is straight possibility. https://github.com/sunmingtao/poker-hand-analysis/issues/145
+4. Middle pair call PSB on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/146
