@@ -115,3 +115,20 @@ Total profit: 448
 
 1. Top third two pair bet size is wrong on turn after flop check raise. https://github.com/sunmingtao/poker-hand-analysis/issues/150
 2. Unable to fold full house on river facing min raise. https://github.com/sunmingtao/poker-hand-analysis/issues/151
+
+## Session 8
+
+Date: 2021-02-25
+Hands: 211
+Error rate: 5.31
+Profit: -76.5
+
+Total hands: 1802
+Total profit: 371.5
+
+### Mistakes:
+
+1. no cbet with trip is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/153
+2. Call raise to draw to non-nuts is wrong https://github.com/sunmingtao/poker-hand-analysis/issues/152
+3. AQs MP vs UTG open should call.
+4. 
