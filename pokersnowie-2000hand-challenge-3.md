@@ -131,4 +131,6 @@ Total profit: 371.5
 1. no cbet with trip is wrong. https://github.com/sunmingtao/poker-hand-analysis/issues/153
 2. Call raise to draw to non-nuts is wrong https://github.com/sunmingtao/poker-hand-analysis/issues/152
 3. AQs MP vs UTG open should call.
-4. 
+4. JJ overpair in 3bet pot face big turn raise that doesn't make sense. https://github.com/sunmingtao/poker-hand-analysis/issues/154
+5. Top pair BvB missed cbet. https://github.com/sunmingtao/poker-hand-analysis/issues/155
+6. Kx on KKx board missed cbet. https://github.com/sunmingtao/poker-hand-analysis/issues/155
