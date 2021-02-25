@@ -100,3 +100,18 @@ Total profit: 617
 1. Small flop, when to check, when to bet? https://github.com/sunmingtao/poker-hand-analysis/issues/147
 2. Mono board with gutshot, should steam. https://github.com/sunmingtao/poker-hand-analysis/issues/148
 3. AJo face btn 3bet should fold, AJs should call, same as KQ. 
+
+## Session 8
+
+Date: 2021-02-25
+Hands: 168
+Error rate: 8.67
+Profit: -169
+
+Total hands: 1591
+Total profit: 448
+
+### Mistakes:
+
+1. Top third two pair bet size is wrong on turn after flop check raise. https://github.com/sunmingtao/poker-hand-analysis/issues/150
+2. Unable to fold full house on river facing min raise. https://github.com/sunmingtao/poker-hand-analysis/issues/151
