@@ -134,3 +134,17 @@ Total profit: 371.5
 4. JJ overpair in 3bet pot face big turn raise that doesn't make sense. https://github.com/sunmingtao/poker-hand-analysis/issues/154
 5. Top pair BvB missed cbet. https://github.com/sunmingtao/poker-hand-analysis/issues/155
 6. Kx on KKx board missed cbet. https://github.com/sunmingtao/poker-hand-analysis/issues/155
+
+## Session 9
+
+Date: 2021-02-26
+Hands: 135
+Error rate: 2.17
+Profit: 110
+
+Total hands: 1937
+Total profit: 481.5
+
+### Mistakes:
+
+1. 3bet 226 flop, should PSB cbet. https://github.com/sunmingtao/poker-hand-analysis/issues/156
