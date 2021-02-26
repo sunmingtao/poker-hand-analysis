@@ -161,3 +161,7 @@ Total profit: 624
 
 ### Mistakes:
 
+1. AQ CO vs EP, should be aggressive when checked to on flop. https://github.com/sunmingtao/poker-hand-analysis/issues/157
+2. Even multiway pot, IP should attempt to steal when board is dry. https://github.com/sunmingtao/poker-hand-analysis/issues/158
+3. A9s face MP open and CO call, should fold. https://github.com/sunmingtao/poker-hand-analysis/issues/159
+
