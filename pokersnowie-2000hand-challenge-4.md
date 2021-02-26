@@ -43,3 +43,7 @@ Total profit: -1025
 
 ### Mistake:
 
+1. 3bet IP, Q high board is good to bluff. https://github.com/sunmingtao/poker-hand-analysis/issues/168
+2. A3s OOP on paired board flop calls too lightly. https://github.com/sunmingtao/poker-hand-analysis/issues/169
+3. 3bet OOP, middle pair + gutshot shouldn't give up. https://github.com/sunmingtao/poker-hand-analysis/issues/170
+4. Overpair face double check raise on flop and turn, and river overbet push. https://github.com/sunmingtao/poker-hand-analysis/issues/171
