@@ -23,3 +23,9 @@ Blunders: 38
 Profit: -154.5
 
 2020/02/22, Had a big tilt after a river catch bad beat. Made lots of bad calls.
+
+## Pokersnowie 2000 hand challenge 3 (2021-02-22 - 2021-02-26)
+Hands: 2150
+Error rate: 5.24
+Blunders: 39
+Profit: 624
