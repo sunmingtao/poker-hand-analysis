@@ -148,3 +148,16 @@ Total profit: 481.5
 ### Mistakes:
 
 1. 3bet 226 flop, should PSB cbet. https://github.com/sunmingtao/poker-hand-analysis/issues/156
+
+## Session 10
+
+Date: 2021-02-26
+Hands: 213
+Error rate: 7.08
+Profit: 142.5
+
+Total hands: 2150
+Total profit: 624
+
+### Mistakes:
+
