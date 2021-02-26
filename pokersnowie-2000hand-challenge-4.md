@@ -30,3 +30,16 @@ Total profit: -815
 
 1. Made hand + draw should small bet on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/166
 2. 3bet OOP AJ cbet size on AQ4 flop https://github.com/sunmingtao/poker-hand-analysis/issues/167
+
+## Session 3
+
+Date: 2021-02-26
+Hands: 117
+Error rate: 15.93
+Profit: -210
+
+Total hands: 538
+Total profit: -1025
+
+### Mistake:
+
