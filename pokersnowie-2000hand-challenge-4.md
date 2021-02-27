@@ -68,3 +68,7 @@ Profit: -132
 
 Total hands: 751
 Total profit: -1329.5
+
+### Mistake:
+
+1. 3bet OOP, A9s shouldn't cbet on 234. https://github.com/sunmingtao/poker-hand-analysis/issues/172
