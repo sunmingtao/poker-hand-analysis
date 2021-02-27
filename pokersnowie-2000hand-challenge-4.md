@@ -58,7 +58,6 @@ Profit: -172.5
 Total hands: 638
 Total profit: -1197.5
 
-
 ## Session 5
 
 Date: 2021-02-27
@@ -72,3 +71,18 @@ Total profit: -1329.5
 ### Mistake:
 
 1. 3bet OOP, A9s shouldn't cbet on 234. https://github.com/sunmingtao/poker-hand-analysis/issues/172
+
+## Session 6
+
+Date: 2021-02-27
+Hands: 220
+Error rate: 2.58
+Profit: -98
+
+Total hands: 971
+Total profit: -1427.5
+
+### Mistake:
+
+1. under pair should simply fold to cbet
+2. BvB, A high no need to take a stab at turn on K993. https://github.com/sunmingtao/poker-hand-analysis/issues/173
