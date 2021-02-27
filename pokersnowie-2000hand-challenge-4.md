@@ -58,3 +58,13 @@ Profit: -172.5
 Total hands: 638
 Total profit: -1197.5
 
+
+## Session 5
+
+Date: 2021-02-27
+Hands: 113
+Error rate: 4.63
+Profit: -132
+
+Total hands: 751
+Total profit: -1329.5
