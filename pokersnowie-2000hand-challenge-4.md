@@ -86,3 +86,4 @@ Total profit: -1427.5
 
 1. under pair should simply fold to cbet
 2. BvB, A high no need to take a stab at turn on K993. https://github.com/sunmingtao/poker-hand-analysis/issues/173
+3. MP 55+ should open, EP 77+. 
