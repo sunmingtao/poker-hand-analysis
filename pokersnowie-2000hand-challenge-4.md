@@ -47,3 +47,14 @@ Total profit: -1025
 2. A3s OOP on paired board flop calls too lightly. https://github.com/sunmingtao/poker-hand-analysis/issues/169
 3. 3bet OOP, middle pair + gutshot shouldn't give up. https://github.com/sunmingtao/poker-hand-analysis/issues/170
 4. Overpair face double check raise on flop and turn, and river overbet push. https://github.com/sunmingtao/poker-hand-analysis/issues/171
+
+## Session 4
+
+Date: 2021-02-27
+Hands: 100
+Error rate: 1.57
+Profit: -172.5
+
+Total hands: 638
+Total profit: -1197.5
+
