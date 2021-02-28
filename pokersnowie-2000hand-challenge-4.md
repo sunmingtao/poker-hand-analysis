@@ -87,3 +87,21 @@ Total profit: -1427.5
 1. under pair should simply fold to cbet
 2. BvB, A high no need to take a stab at turn on K993. https://github.com/sunmingtao/poker-hand-analysis/issues/173
 3. MP 55+ should open, EP 77+. 
+
+## Session 7
+
+Date: 2021-02-28
+Hands: 42
+Error rate: 17.84
+Profit: 28
+
+Total hands: 1013
+Total profit: -1399.5
+
+### Mistake:
+
+1. 3bet IP, TPTK should check on river dry board when villain PSB on turn. https://github.com/sunmingtao/poker-hand-analysis/issues/174
+2. How to play middle pair in mono board. https://github.com/sunmingtao/poker-hand-analysis/issues/175
+3. Non nutty hand should check back after villan turn check raise. https://github.com/sunmingtao/poker-hand-analysis/issues/174
+4. 22 at BB should call 3.5x open at BB
+5. 68s should fold at CO. 
