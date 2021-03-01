@@ -120,3 +120,21 @@ Total profit: -1524
 
 1. 77 at Btn shouldn't call UTG open, and call turn with 3rd pair
 2. JJ as 2nd pair face check raise on river. https://github.com/sunmingtao/poker-hand-analysis/issues/176
+
+## Session 9
+
+Date: 2021-03-01
+Hands: 509
+Error rate: 4.75
+Profit: -129
+
+Total hands: 1685
+Total profit: -1653
+
+### Mistake:
+
+1. K high should cbet on baby card flop
+2. KQo CO vs MP, either 3bet or fold
+3. A high should only call once on flop, shouldn't call again on turn
+4. 4bet IP, river should check on dangerous board. https://github.com/sunmingtao/poker-hand-analysis/issues/177
+5. QTo at MP should open
