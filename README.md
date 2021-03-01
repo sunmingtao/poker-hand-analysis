@@ -29,3 +29,7 @@ Hands: 2150
 Error rate: 5.24
 Blunders: 39
 Profit: 624
+
+
+
+https://www.blackrain79.com/2014/06/good-win-rates-for-micro-and-small_6.html
