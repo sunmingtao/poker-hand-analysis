@@ -105,3 +105,18 @@ Total profit: -1399.5
 3. Non nutty hand should check back after villan turn check raise. https://github.com/sunmingtao/poker-hand-analysis/issues/174
 4. 22 at BB should call 3.5x open at BB
 5. 68s should fold at CO. 
+
+## Session 8
+
+Date: 2021-03-01
+Hands: 63
+Error rate: 17.96
+Profit: -124.5
+
+Total hands: 1076
+Total profit: -1524
+
+### Mistake:
+
+1. 77 at Btn shouldn't call UTG open, and call turn with 3rd pair
+2. JJ as 2nd pair face check raise on river. https://github.com/sunmingtao/poker-hand-analysis/issues/176
