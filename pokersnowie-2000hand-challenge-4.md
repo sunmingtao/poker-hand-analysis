@@ -138,3 +138,22 @@ Total profit: -1653
 3. A high should only call once on flop, shouldn't call again on turn
 4. 4bet IP, river should check on dangerous board. https://github.com/sunmingtao/poker-hand-analysis/issues/177
 5. QTo at MP should open
+
+## Session 10
+Date: 2021-03-02
+Hands: 188
+Error rate: 1.53
+Profit: 59
+
+Total hands: 1873
+Total profit: 1594
+
+
+## Session 11
+Date: 2021-03-02
+Hands: 102
+Error rate: 5.82
+Profit: -94.5
+
+Total hands: 1975
+Total profit: -1688.5
