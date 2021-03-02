@@ -30,6 +30,10 @@ Error rate: 5.24
 Blunders: 39
 Profit: 624
 
-
+## Pokersnowie 2000 hand challenge 4 (2021-02-26 - 2021-03-03)
+Hands: 2124
+Error rate: n/a
+Blunders: n/a
+Profit: -1769.5
 
 https://www.blackrain79.com/2014/06/good-win-rates-for-micro-and-small_6.html
