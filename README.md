@@ -40,4 +40,4 @@ https://www.blackrain79.com/2014/06/good-win-rates-for-micro-and-small_6.html
 
 # Question
 
-BB vs SB, shall I take a stab when checked to even with little equity?
+BB vs SB, shall I take a stab when checked to even with little equity? e.g. Hero has A5s on T86 flop. 
