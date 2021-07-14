@@ -37,3 +37,7 @@ Blunders: n/a
 Profit: -1769.5
 
 https://www.blackrain79.com/2014/06/good-win-rates-for-micro-and-small_6.html
+
+# Question
+
+BB vs SB, shall I take a stab when checked to even with little equity?
