@@ -18,7 +18,7 @@
 4. Weak top pair check raise BB vs SB
 5. Call large bet to draw lower end straight. e.g 75 on 89T
 6. MP vs BTN, should cbet top two quite small on TJK (why?)
-7. Not raise bottom set in 3bet pot on Jhigh flop
+7. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
 
 ## Turn
 
