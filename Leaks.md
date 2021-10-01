@@ -8,6 +8,7 @@
 6. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
 7. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
 8. AQo call all in BB vs SB against 50BB short stacker
+9. Use A5s-A9s to isolate limp fish (At least use AT+)
 
 ## Flop
 
