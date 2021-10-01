@@ -38,5 +38,5 @@
 
 Obeservation:
 
-When villain pot size bet on A high board, they usually have it
-Bluff frequency increases on lower board. 
+1. When villain pot size bet on A high board, they usually have it
+2. Bluff frequency increases on lower board. 
