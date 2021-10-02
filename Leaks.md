@@ -18,17 +18,18 @@
 
 ## Flop
 
-1. Weak A high without even backdoor equity check call 1/3 - half pot bet
-2. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
-3. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
-4. Strong top pair not check raise BB vs BTN
-5. Weak top pair check raise BB vs SB
-6. Call large bet to draw lower end straight. e.g 75 on 89T
-7. MP vs BTN, should cbet top two quite small on TJK (why?)
-8. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
-9. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
-10. SB vs BB, cbet should be half pot
-11. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
+1. Weak A high without even backdoor equity, check call 1/3 - half pot bet
+2. K high with backdoor equity check call 1/3 on A high board
+3. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
+4. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
+5. Strong top pair not check raise BB vs BTN
+6. Weak top pair check raise BB vs SB
+7. Call large bet to draw lower end straight. e.g 75 on 89T
+8. MP vs BTN, should cbet top two quite small on TJK (why?)
+9. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
+10. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
+11. SB vs BB, cbet should be half pot
+12. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
 
 ## Turn
 
