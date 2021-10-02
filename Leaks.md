@@ -30,6 +30,7 @@
 10. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
 11. SB vs BB, cbet should be half pot
 12. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
+13. BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)
 
 ## Turn
 
