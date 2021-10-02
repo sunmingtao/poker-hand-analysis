@@ -33,6 +33,7 @@
 2. After check top set (QQ) on the flop, when turn is A, should 2x bet, targeting villain's top pair
 3. After villain check raises on the flop, then check the turn, should either bet 1/4 - 1/3 or check. Don't bet 1/2 unless super strong hand. 
 4. Villain min bet turn, then bet river usually has it. Cannot call with A high.
+5. Call big bet OOP to draw nuts
 
 ## River
 
@@ -47,4 +48,4 @@ Obeservation:
 
 1. When villain pot size bet on A high board, they usually have it
 2. Bluff frequency increases on lower board. 
-3. Villain checks raise flop, when betting half pot, he is likely to have top pair or set. When betting 75% pot, he is likely to have draw. 
+3. Villain checks raise flop, when betting half pot, he is likely to have top pair or better. When betting 75% pot, he is likely to have draw. 
