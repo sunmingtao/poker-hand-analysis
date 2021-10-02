@@ -2,15 +2,16 @@
 
 1. KQo at BTN/SB squeeze MP/CO open
 2. KQo not 3bet BB vs SB
-3. AQo/AJo/KQo 3bet or call CO vs BTN (They should all fold, even to a 3x 3bet)
+3. AQo/AJo/KQo at CO call BTN 3bet(They should all fold, even to a 3x 3bet)
 4. 88/99 at SB squeeze MP/CO open (TT+ should squeeze)
 5. TT/JJ cold 4bet MP open, BTN 3bet
 6. 89s, 55 call large 3bet (4x+ hero open)
-7. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
-8. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
-9. AQo call all in BB vs SB against 50BB short stacker
-10. Use A5s-A9s to isolate limp fish (At least use AT+)
-11. A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o
+7. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
+8. AQo call all in BB vs SB against 50BB short stacker
+9. Use A5s-A9s to isolate limp fish (At least use AT+)
+10. A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o
+11. KQs/KJs/QJs at UTG call SB/BB 3bet, (should call with AJs+)
+12. AJo/KQo at CO call SB 3bet
 
 ## Flop
 
@@ -21,6 +22,7 @@
 5. Call large bet to draw lower end straight. e.g 75 on 89T
 6. MP vs BTN, should cbet top two quite small on TJK (why?)
 7. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
+8. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
 
 ## Turn
 
