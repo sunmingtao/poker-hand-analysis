@@ -37,7 +37,8 @@
 2. River not triple barrel on super scary card (Td4c6c2h3h)
 3. Can't fold trip on flush board
 4. Call with A high on the turn and on the river
-5. Generally speaking, very unsure when to bluff the river
+5. 3bet pot, river value bet TPTK (AK) when back door flush completes. (Should only value bet 2pair+)
+6. Generally speaking, very unsure when to bluff the river
 
 Obeservation:
 
