@@ -13,8 +13,8 @@
 11. KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)
 12. AJo/KQo at CO call SB 3bet
 13. KTs at BTN 3bet MP open (should 3bet KJs+)
-14. Learn SB vs BB small 4bet strategy
-15. SB vs BB, 22 should fold, 33/44 should limp
+14. SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. 
+15. SB vs BB, 22 should fold, 33/44 should limp/call
 
 ## Flop
 
