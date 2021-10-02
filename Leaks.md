@@ -46,3 +46,4 @@ Obeservation:
 
 1. When villain pot size bet on A high board, they usually have it
 2. Bluff frequency increases on lower board. 
+3. Villain checks raise flop, when betting half pot, he is likely to have top pair or set. When betting 75% pot, he is likely to have draw. 
