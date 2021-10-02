@@ -10,7 +10,7 @@
 8. AQo call all in BB vs SB against 50BB short stacker
 9. Use A5s-A9s to isolate limp fish (At least use AT+)
 10. A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o
-11. KQs/KJs/QJs at UTG call SB/BB 3bet, (should call with AJs+)
+11. KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)
 12. AJo/KQo at CO call SB 3bet
 
 ## Flop
@@ -23,6 +23,7 @@
 6. MP vs BTN, should cbet top two quite small on TJK (why?)
 7. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
 8. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
+9. SB vs BB, cbet should be half pot
 
 ## Turn
 
