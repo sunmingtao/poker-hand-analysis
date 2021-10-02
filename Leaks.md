@@ -55,3 +55,4 @@ Obeservation:
 2. Bluff frequency increases on lower board. 
 3. Villain check raises flop, when betting half pot, he is likely to have top pair or better. When betting 75% pot, he is likely to have draw. 
 4. Bet/check/Bet is a strong line
+5. Villains under bluff on double paired board because they assume hero will call with A high. 
