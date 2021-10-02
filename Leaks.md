@@ -42,7 +42,8 @@
 3. Can't fold trip on flush board
 4. Call with A high on the turn and on the river
 5. 3bet pot, river value bet TPTK (AK) when back door flush completes. (Should only value bet 2pair+)
-6. Generally speaking, very unsure when to bluff the river
+6. Overplay small full house (see villain has pot commited, shove small full house then run into bigger full house)
+7. Generally speaking, very unsure when to bluff the river
 
 Obeservation:
 
