@@ -13,6 +13,7 @@
 11. KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)
 12. AJo/KQo at CO call SB 3bet
 13. KTs at BTN 3bet MP open (should 3bet KJs+)
+14. Learn SB vs BB small 4bet strategy
 
 ## Flop
 
