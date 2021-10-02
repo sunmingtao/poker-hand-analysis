@@ -14,6 +14,7 @@
 12. AJo/KQo at CO call SB 3bet
 13. KTs at BTN 3bet MP open (should 3bet KJs+)
 14. Learn SB vs BB small 4bet strategy
+15. SB vs BB, 22 should fold, 33/44 should limp
 
 ## Flop
 
