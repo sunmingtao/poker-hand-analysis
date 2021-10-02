@@ -2,7 +2,7 @@
 
 1. KQo at BTN/SB squeeze MP/CO open
 2. KQo not 3bet BB vs SB
-3. AQo/AJo/KQo at CO call BTN 3bet(They should all fold, even to a 3x 3bet)
+3. AQo/AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet)
 4. 88/99 at SB squeeze MP/CO open (TT+ should squeeze)
 5. TT/JJ cold 4bet MP open, BTN 3bet
 6. 89s, 55 call large 3bet (4x+ hero open)
