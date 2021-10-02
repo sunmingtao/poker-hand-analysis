@@ -12,6 +12,7 @@
 10. A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o
 11. KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)
 12. AJo/KQo at CO call SB 3bet
+13. KTs at BTN 3bet MP open (should 3bet KJs+)
 
 ## Flop
 
