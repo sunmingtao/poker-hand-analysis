@@ -26,6 +26,7 @@
 8. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
 9. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
 10. SB vs BB, cbet should be half pot
+11. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
 
 ## Turn
 
