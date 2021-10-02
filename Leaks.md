@@ -32,6 +32,7 @@
 1. A high call large bet on double paired board
 2. After check top set (QQ) on the flop, when turn is A, should 2x bet, targeting villain's top pair
 3. After villain check raises on the flop, then check the turn, should either bet 1/4 - 1/3 or check. Don't bet 1/2 unless super strong hand. 
+4. Villain min bet turn, then bet river usually has it. Cannot call with A high.
 
 ## River
 
