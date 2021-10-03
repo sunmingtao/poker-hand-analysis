@@ -39,6 +39,7 @@
 3. After villain check raises on the flop, then check the turn, should either bet 1/4 - 1/3 or check. Don't bet 1/2 unless super strong hand. 
 4. Villain min bet turn, then bet river usually has it. Cannot call with A high.
 5. Call big bet OOP to draw nuts
+6. Don't know how to play TT on QQ54 in 3bet pot OOP. (TT should be played no differently from KK/AA, if villan's got an Q, then let me win)
 
 ## River
 
