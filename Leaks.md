@@ -32,6 +32,7 @@
 11. SB vs BB, cbet should be half pot
 12. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
 13. BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)
+14. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
 
 ## Turn
 
