@@ -4,7 +4,7 @@
 2. KQo not 3bet BB vs SB
 3. AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet, AQo/AQs/KQs/KJs/QJs call, TT/JJ/AKo 4bet fold, QQ+/AKs 4bet call)
 4. 88/99 at SB squeeze MP/CO open (TT+ should squeeze)
-5. TT/JJ cold 4bet MP open, BTN 3bet
+5. TT/JJ cold 4bet MP open, BTN 3bet (TT should fold, JJ should call)
 6. 89s, 55 call large 3bet (4x+ hero open)
 7. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
 8. AQo call all in BB vs SB against 50BB short stacker
