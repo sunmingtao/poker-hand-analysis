@@ -15,6 +15,7 @@
 13. KTs at BTN 3bet MP open (should 3bet KJs+)
 14. SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. 
 15. SB vs BB, 22 should fold, 33/44 should limp/call
+16. BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call
 
 ## Flop
 
