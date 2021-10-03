@@ -20,7 +20,7 @@
 ## Flop
 
 1. Weak A high without even backdoor equity, check call 1/3 - half pot bet
-2. K high with backdoor equity check call 1/3 on A high board
+2. K high with backdoor equity check call 1/3 on A high board, or call 1/2 on paired board. 
 3. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
 4. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
 5. Strong top pair not check raise BB vs BTN
