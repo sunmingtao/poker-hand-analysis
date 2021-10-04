@@ -55,7 +55,8 @@
 5. 3bet pot, river value bet TPTK (AK) when back door flush completes. (Should only value bet 2pair+)
 6. Overplay small full house (see villain has pot commited, shove small full house then run into bigger full house)
 7. Rainbow dry board is good to triple barrel. From villain's perspective, there is not many busted draws
-8. Generally speaking, very unsure when to bluff the river
+8. Sometimes bluff A high OOP to avoid getting bluffed. (e.g. Flop/Turn check, river holding AT on 56678)
+9. Generally speaking, very unsure when to bluff the river
 
 Obeservation:
 
