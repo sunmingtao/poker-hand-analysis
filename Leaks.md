@@ -32,11 +32,12 @@
 8. MP vs BTN, should cbet top two quite small on TJK (why?)
 9. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
 10. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
-11. SB vs BB, cbet should be half pot
-12. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
-13. BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)
-14. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
-15. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
+11. BB vs SB, not raise cbet with gut shot on lower connected board. e.g. Qc7h on 8h9h5c
+12. SB vs BB, cbet should be half pot, unless intentionally trying to induce bluff
+13. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
+14. BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)
+15. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
+16. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
 
 ## Turn
 
