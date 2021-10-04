@@ -58,7 +58,7 @@
 6. Overplay small full house (see villain has pot commited, shove small full house then run into bigger full house)
 7. Rainbow dry board is good to triple barrel. From villain's perspective, there is not many busted draws
 8. Sometimes bluff A high OOP to avoid getting bluffed. (e.g. Flop/Turn check, river holding AT on 56678)
-9. SB vs BB, not value bet 2 pair when possible flush completes on river (e.g Kc8h on KhQs5s4h8s)
+9. SB vs BB, not value bet 2 pair when possible flush completes on river (e.g Kc8h on KhQs5s4h8s, should pot bet/fold)
 10. Generally speaking, very unsure when to bluff the river
 
 Obeservation and thoughts:
