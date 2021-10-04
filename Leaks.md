@@ -28,7 +28,7 @@
 4. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
 5. Strong top pair not check raise BB vs BTN
 6. Weak top pair check raise BB vs SB
-7. Call large bet to draw lower end straight. e.g 75 on 89T
+7. Call large bet to draw lower end straight. e.g 75 on 89T (shouldn't call even IP)
 8. MP vs BTN, should cbet top two quite small on TJK (why?)
 9. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
 10. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
