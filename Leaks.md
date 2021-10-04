@@ -58,7 +58,7 @@
 8. Sometimes bluff A high OOP to avoid getting bluffed. (e.g. Flop/Turn check, river holding AT on 56678)
 9. Generally speaking, very unsure when to bluff the river
 
-Obeservation:
+Obeservation and thoughts:
 
 1. When villain pot size bet on A high board, they usually have it
 2. Bluff frequency increases on lower board. 
@@ -67,3 +67,4 @@ Obeservation:
 5. Villains under bluff on double paired board because they assume hero will call with A high. 
 6. Tank - large bet usually has the nuts
 7. Since after villain check raises the flop on flush draw board, villain almost always follows through on the turn, there is no need to defend with bottom pair (because hero has to fold bottom pair facing aggression)
+8. Sometimes when bet and check is close, prefer to bet to make life easier. 
