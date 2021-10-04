@@ -53,7 +53,8 @@
 4. Call with A high on the turn and on the river
 5. 3bet pot, river value bet TPTK (AK) when back door flush completes. (Should only value bet 2pair+)
 6. Overplay small full house (see villain has pot commited, shove small full house then run into bigger full house)
-7. Generally speaking, very unsure when to bluff the river
+7. Rainbow dry board is good to triple barrel. From villain's perspective, there is not many busted draws
+8. Generally speaking, very unsure when to bluff the river
 
 Obeservation:
 
@@ -63,3 +64,4 @@ Obeservation:
 4. Bet/check/Bet is a strong line
 5. Villains under bluff on double paired board because they assume hero will call with A high. 
 6. Tank - large bet usually has the nuts
+7. Since after villain check raises the flop on flush draw board, villain almost always follows through on the turn, there is no need to defend with bottom pair (because hero has to fold bottom pair facing aggression)
