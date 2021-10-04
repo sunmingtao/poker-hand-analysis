@@ -59,7 +59,8 @@
 7. Rainbow dry board is good to triple barrel. From villain's perspective, there is not many busted draws
 8. Sometimes bluff A high OOP to avoid getting bluffed. (e.g. Flop/Turn check, river holding AT on 56678)
 9. SB vs BB, not value bet 2 pair when possible flush completes on river (e.g Kc8h on KhQs5s4h8s, should pot bet/fold)
-10. Generally speaking, very unsure when to bluff the river
+10. Check call flop and river, then lead river on 4 card to a flush board (e.g. KsJh on 4s2sQsJsKh, should check call the river)
+11. Generally speaking, very unsure when to bluff the river
 
 Obeservation and thoughts:
 
