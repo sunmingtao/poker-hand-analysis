@@ -19,6 +19,7 @@
 17. 3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)
 18. AQo at BB not squeeze UTG open, BTN call (Playing AQo OOP is difficult multiple, even hitting TPTK on dry board you don't know if it's good facing aggression)
 19. AQo at CO not 3bet MP open. 
+20. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
 
 ## Flop
 
