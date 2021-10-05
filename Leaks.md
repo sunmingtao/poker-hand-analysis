@@ -51,6 +51,7 @@
 5. Call big bet OOP to draw nuts
 6. Don't know how to play TT on QQ54 in 3bet pot OOP. (TT should be played no differently from KK/AA, if villan's got an Q, then let me win)
 7. Bet small when turned flush in multiway pot. (Should check raise to build the pot)
+8. Check nuts oop on the turn on super dry board, or super wet board (e.g KQ on QQ77, AsKh on QsJs9s5s, they should continue betting half pot to extract value)
 
 ## River
 
