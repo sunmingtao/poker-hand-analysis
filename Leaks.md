@@ -77,3 +77,4 @@ Obeservation and thoughts:
 7. Since after villain check raises the flop on flush draw board, villain almost always follows through on the turn, there is no need to defend with bottom pair (because hero has to fold bottom pair facing aggression)
 8. BB vs BTN, Top pair not value bet after villain cbet flop then checks back
 9. Sometimes when bet and check is close, prefer to bet to make life easier. 
+10. Should very rarely flat with non pocket pair hand facing a 4x+ raise
