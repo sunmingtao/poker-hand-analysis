@@ -67,6 +67,7 @@
 10. Check call flop and river, then lead river on 4 card to a flush board (e.g. KsJh on 4s2sQsJsKh, should check call the river)
 11. Afraid of bluffing the river when holding no showdown (e.g. 6s7s on Js4c2hKc3s, good candidates to triple barrel because it doesn't block flush draw, and it blocks nut straight, and it has no showdown value)
 12. BB vs BTN, Top pair not value bet after villain cbet flop then checks back
+13. Flop check through, turn bluff, then river completes back door flush is usually a good card to bluff.
 
 Obeservation and thoughts:
 
