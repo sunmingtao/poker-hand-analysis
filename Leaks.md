@@ -40,6 +40,7 @@
 16. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
 17. QQ call 3bet IP, call 1/2 pot cbet on A high board (e.g. Ad9d2s, even as strong as QQ should be a fold)
 18. BTN vs MP single raised pot, JJ call 60% pot cbet on A high board. (MP has a strong range, JJ should fold)
+19. Multiway pot, cbet small with nutty hand (should always check raise, if flop check through, turn still check raise)
 
 ## Turn
 
