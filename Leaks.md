@@ -64,7 +64,6 @@
 9. SB vs BB, not value bet 2 pair when possible flush completes on river (e.g Kc8h on KhQs5s4h8s, should pot bet/fold)
 10. Check call flop and river, then lead river on 4 card to a flush board (e.g. KsJh on 4s2sQsJsKh, should check call the river)
 11. Afraid of bluffing the river when holding no showdown (e.g. 6s7s on Js4c2hKc3s, good candidates to triple barrel because it doesn't block flush draw, and it blocks nut straight, and it has no showdown value)
-12. Generally speaking, very unsure when to bluff the river
 
 Obeservation and thoughts:
 
