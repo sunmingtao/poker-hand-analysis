@@ -38,6 +38,7 @@
 14. BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)
 15. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
 16. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
+17. QQ call 3bet IP, call 1/2 pot cbet on A high board (e.g. Ad9d2s, even as strong as QQ should be a fold)
 
 ## Turn
 
@@ -47,6 +48,7 @@
 4. Villain min bet turn, then bet river usually has it. Cannot call with A high.
 5. Call big bet OOP to draw nuts
 6. Don't know how to play TT on QQ54 in 3bet pot OOP. (TT should be played no differently from KK/AA, if villan's got an Q, then let me win)
+7. Bet small when turned flush in multiway pot. (Should check raise to build the pot)
 
 ## River
 
@@ -60,7 +62,8 @@
 8. Sometimes bluff A high OOP to avoid getting bluffed. (e.g. Flop/Turn check, river holding AT on 56678)
 9. SB vs BB, not value bet 2 pair when possible flush completes on river (e.g Kc8h on KhQs5s4h8s, should pot bet/fold)
 10. Check call flop and river, then lead river on 4 card to a flush board (e.g. KsJh on 4s2sQsJsKh, should check call the river)
-11. Generally speaking, very unsure when to bluff the river
+11. Afraid of bluffing the river when holding no showdown (e.g. 6s7s on Js4c2hKc3s, good candidates to triple barrel because it doesn't block flush draw, and it blocks nut straight, and it has no showdown value)
+12. Generally speaking, very unsure when to bluff the river
 
 Obeservation and thoughts:
 
@@ -71,4 +74,5 @@ Obeservation and thoughts:
 5. Villains under bluff on double paired board because they assume hero will call with A high. 
 6. Tank - large bet usually has the nuts
 7. Since after villain check raises the flop on flush draw board, villain almost always follows through on the turn, there is no need to defend with bottom pair (because hero has to fold bottom pair facing aggression)
-8. Sometimes when bet and check is close, prefer to bet to make life easier. 
+8. BB vs BTN, Top pair not value bet after villain cbet flop then checks back
+9. Sometimes when bet and check is close, prefer to bet to make life easier. 
