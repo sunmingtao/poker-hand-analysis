@@ -83,3 +83,4 @@ Obeservation and thoughts:
 8. Sometimes when bet and check is close, prefer to bet to make life easier. 
 9. Should very rarely flat with non pocket pair hand facing a 4x+ raise
 10. Half pot bet gets no respect. 
+11. Short stacker is more likely to bluff raise
