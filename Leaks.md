@@ -9,7 +9,7 @@
 7. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
 8. AQo call all in BB vs SB against 50BB short stacker
 9. Use A6s-A9s, TJ+ to isolate limp short stack fish (At least use AT+,KJs)
-10. Not use A5+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish)
+10. Not use A5+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish, TJs,55-99 is call)
 11. A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o
 12. KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)
 13. AJo/KQo at CO call SB 3bet
