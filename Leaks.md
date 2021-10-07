@@ -83,6 +83,7 @@ Obeservation and thoughts:
 7. Since after villain check raises the flop on flush draw board, villain almost always follows through on the turn, there is no need to defend with bottom pair (because hero has to fold bottom pair facing aggression)
 8. Sometimes when bet and check is close, prefer to bet to make life easier. 
 9. Should very rarely flat with non pocket pair hand facing a 4x+ raise
-10. Half pot bet gets no respect. 
+10. Half pot bet gets no respect, so on the turn nutty hands should only bet half pot. Top two is a very candidate because it blocks villain's calling range, but unblocks villain's bluff range. 
 11. Short stacker is more likely to bluff raise
-12. Villain over check/raise flop, and almost always fires the turn. This means hero can over fold the flop, and select strong combo that can call a large turn bet. 
+12. Villain over check/raise flop, and almost always fires the turn. This means hero can over fold the flop, and select strong combo that can call a large turn bet.
+ 
