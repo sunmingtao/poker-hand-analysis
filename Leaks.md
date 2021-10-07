@@ -85,3 +85,4 @@ Obeservation and thoughts:
 9. Should very rarely flat with non pocket pair hand facing a 4x+ raise
 10. Half pot bet gets no respect. 
 11. Short stacker is more likely to bluff raise
+12. Villain over check/raise flop, and almost always fires the turn. This means hero can over fold the flop, and select strong combo that can call a large turn bet. 
