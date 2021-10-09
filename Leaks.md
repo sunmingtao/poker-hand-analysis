@@ -44,6 +44,7 @@
 18. BTN vs MP single raised pot, JJ call 60% pot cbet on A high board. (MP has a strong range, JJ should fold)
 19. Multiway pot, cbet small with nutty hand (should always check raise, if flop check through, turn still check raise)
 20. Multiway pot, check top pair on A high K high board. (KJ on KT5, AQ on A56 should bet 1/3, overpair on lower board should check)
+21. QQ in 4bet pot check on JT8 flop because of fearing running into JJ/TT. (Should cbet 1/2 pot, and shove the turn. If running into JJ/TT so be it. Giving a free card and let villain catch up is a huge mistake)
 
 ## Turn
 
