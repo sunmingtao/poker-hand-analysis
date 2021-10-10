@@ -90,4 +90,5 @@ Obeservation and thoughts:
 10. Half pot bet gets no respect, so on the turn nutty hands should only bet half pot. Top two is a very candidate because it blocks villain's calling range, but unblocks villain's bluff range. 
 11. Short stacker is more likely to bluff raise
 12. Villain over check/raise flop, and almost always fires the turn. This means hero can over fold the flop, and select strong combo that can call a large turn bet.
+13. Try best to gain the initiative, use 10% to block bet on the turn with 2nd pair
  
