@@ -22,6 +22,8 @@
 20. AQo at CO not 3bet MP open. 
 21. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
 22. AK/QQ not 4bet MP 3bet
+23. MP open, Hero at BTN 3bet with AKs, BTN small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
+24. BB 3bet push 100BB, should hero call with JJ?
 
 ## Flop
 
