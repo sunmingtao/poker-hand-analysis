@@ -97,4 +97,5 @@ Obeservation and thoughts:
 12. Villain over check/raise flop, and almost always fires the turn. This means hero can over fold the flop, and select strong combo that can call a large turn bet.
 13. Try best to gain the initiative, use 10% to block bet on the turn with 2nd pair
 14. Pot size cbet works well because villain doesn't face it everyday and generally will over fold. 
+15. When deciding whether to call a bet on the turn, need to not only think about the real outs, but also the bluff outs, such as front door flush draw. 
  
