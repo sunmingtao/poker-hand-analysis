@@ -98,4 +98,5 @@ Obeservation and thoughts:
 13. Try best to gain the initiative, use 10% to block bet on the turn with 2nd pair
 14. Pot size cbet works well because villain doesn't face it everyday and generally will over fold. 
 15. When deciding whether to call a bet on the turn, need to not only think about the real outs, but also the bluff outs, such as front door flush draw. 
+16. When check raise with set on the flop, the size should always be large (unless in multiway pot), because villain tends to call the flop raise then fold to turn aggression. So the most profitible line is pot size raise, then half pot, half pot. 
  
