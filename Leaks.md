@@ -96,4 +96,5 @@ Obeservation and thoughts:
 11. Short stacker is more likely to bluff raise
 12. Villain over check/raise flop, and almost always fires the turn. This means hero can over fold the flop, and select strong combo that can call a large turn bet.
 13. Try best to gain the initiative, use 10% to block bet on the turn with 2nd pair
+14. Pot size cbet works well because villain doesn't face it everyday and generally will over fold. 
  
