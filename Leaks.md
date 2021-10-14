@@ -82,7 +82,7 @@
 15. On 4 card to straight board (e.g. 789JA), OOP can bet small with merged range, but IP should always polar targeting villain's two pair, and can be balanced with lots of bluffs. Betting small IP makes no sense, very hard to balance with bluffs)
 16. SB vs BB, river check the nuts. 
 
-Obeservation and thoughts:
+## Obeservation and thoughts:
 
 1. When villain pot size bet on A high board, they usually have it
 2. Bluff frequency increases on lower board. 
@@ -101,6 +101,9 @@ Obeservation and thoughts:
 15. When deciding whether to call a bet on the turn, need to not only think about the real outs, but also the bluff outs, such as front door flush draw. 
 16. When check raise with set on the flop, the size should always be large (unless in multiway pot), because villain tends to call the flop raise then fold to turn aggression. So the most profitible line is pot size raise, then half pot, half pot. 
 17. Dry board: bet small, bet big, bet bigger. Wet board: bet large, bet small (1/2 pot), bet small (1/2 pot) (given the board texture doesn't change). Reason: Villains don't fold pair on the flop even if it's wet, and villains also don't like to fold pair when all the draws brick off. However, if on the turn the board is wet, and villain only has middle pair, he's likely to fold to big bet. Hence the small bet to put villain in an indifferent position. 
-18. EP middle set profitable line: check/call, check/raise, pot. 
-19. 3 bet pot profitable line: Top two pot size bet, half pot improving to full house, river all in. 
-20. Villain tends to under bluff high card board (A,K,Q high, or AKx, KQx), so when facing a PSB on this type of board, middle pair is unlikely to be good. 
+18. Villain tends to under bluff high card board (A,K,Q high, or AKx, KQx), so when facing a PSB on this type of board, middle pair is unlikely to be good. 
+
+## Snowie profitable line
+
+1. EP middle set profitable line: check/call, check/raise, pot. 
+2. 3 bet pot profTop two pot size bet, half pot improving to full house, river all in. 
