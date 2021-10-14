@@ -80,6 +80,7 @@
 13. Flop check through, turn bluff, then river completes back door flush is usually a good card to bluff.
 14. Feel uncomfortable calling overbet with just one pair
 15. On 4 card to straight board (e.g. 789JA), OOP can bet small with merged range, but IP should always polar targeting villain's two pair, and can be balanced with lots of bluffs. Betting small IP makes no sense, very hard to balance with bluffs)
+16. SB vs BB, river check the nuts. 
 
 Obeservation and thoughts:
 
