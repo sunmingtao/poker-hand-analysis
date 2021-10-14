@@ -103,3 +103,4 @@ Obeservation and thoughts:
 17. Dry board: bet small, bet big, bet bigger. Wet board: bet large, bet small (1/2 pot), bet small (1/2 pot) (given the board texture doesn't change). Reason: Villains don't fold pair on the flop even if it's wet, and villains also don't like to fold pair when all the draws brick off. However, if on the turn the board is wet, and villain only has middle pair, he's likely to fold to big bet. Hence the small bet to put villain in an indifferent position. 
 18. EP middle set profitable line: check/call, check/raise, pot. 
 19. 3 bet pot profitable line: Top two pot size bet, half pot improving to full house, river all in. 
+20. Villain tends to under bluff high card board (A,K,Q high, or AKx, KQx), so when facing a 
