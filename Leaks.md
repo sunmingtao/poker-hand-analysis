@@ -104,6 +104,7 @@
 18. Villain tends to under bluff high card board (A,K,Q high, or AKx, KQx), so when facing a PSB on this type of board, middle pair is unlikely to be good. 
 19. SB vs BB, turn should check raise nuts, especially when board favours villain's range (e.g. 89 on 5673)
 20. Overbet nut straight, but half pot full house that blocks top pair 
+21. Called too much when "I know I am beat, but I can't fold". 
 
 ## Snowie profitable line
 
