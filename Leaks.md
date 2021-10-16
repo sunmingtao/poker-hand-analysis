@@ -105,6 +105,7 @@
 19. SB vs BB, turn should check raise nuts, especially when board favours villain's range (e.g. 89 on 5673)
 20. Overbet nut straight, but half pot full house that blocks top pair 
 21. Called too much when "I know I am beat, but I can't fold". 
+22. After losing a buy in or more, I find myself unable to make the fold I am supposed to make. 
 
 ## Snowie profitable line
 
