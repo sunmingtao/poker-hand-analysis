@@ -1,7 +1,7 @@
 ## Preflop
 
-~~1. KQo at BTN/SB squeeze MP/CO open~~
-~~2. KQo not 3bet BB vs SB~~
+1. ~~KQo at BTN/SB squeeze MP/CO open~~
+2. ~~KQo not 3bet BB vs SB~~
 3. AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet, AQo/AQs/KQs/KJs/QJs call, TT/JJ/AKo 4bet fold, QQ+/AKs 4bet call)
 ~~4. 88/99 at SB squeeze MP/CO open (TT+ should squeeze)~~
 5. 88/99 at BB not squeeze BTN open. (66+ should squeeze)
