@@ -3,26 +3,26 @@
 1. ~~KQo at BTN/SB squeeze MP/CO open~~
 2. ~~KQo not 3bet BB vs SB~~
 3. AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet, AQo/AQs/KQs/KJs/QJs call, TT/JJ/AKo 4bet fold, QQ+/AKs 4bet call)
-~~4. 88/99 at SB squeeze MP/CO open (TT+ should squeeze)~~
+4. ~~88/99 at SB squeeze MP/CO open (TT+ should squeeze)~~
 5. 88/99 at BB not squeeze BTN open. (66+ should squeeze)
-~~6. TT/JJ cold 4bet MP open, BTN 3bet (TT should fold, JJ should call)~~
+6. ~~TT/JJ cold 4bet MP open, BTN 3bet (TT should fold, JJ should call)~~
 7. 89s, 55 call large 3bet (4x+ hero open)
 8. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
 9. AQo call all in BB vs SB against 50BB short stacker
 10. Use A6s-A9s, TJ+ to isolate limp short stack fish (At least use AT+,KJs)
 11. Not use A5s+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish, TJs,55-99 is call)
-~~12. A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o~~
-~~13. KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)~~
-~~14. AJo/KQo at CO call SB 3bet~~
-~~15. KTs at BTN 3bet MP open (should 3bet KJs+)~~
+12. ~~A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o~~
+13. ~~KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)~~
+14. ~~AJo/KQo at CO call SB 3bet~~
+15. ~~KTs at BTN 3bet MP open (should 3bet KJs+)~~
 16. SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. 
-~~17. SB vs BB, 22 should fold, 33/44 should limp/call~~
-~~18. BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
-~~19. 3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
+17. ~~SB vs BB, 22 should fold, 33/44 should limp/call~~
+18. ~~BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
+19. ~~3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
 20. AQo at BB not squeeze UTG open, BTN call (Playing AQo OOP is difficult multiple, even hitting TPTK on dry board you don't know if it's good facing aggression)
 21. AQo at CO not 3bet MP open. 
 22. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
-~~23. AK/QQ not 4bet MP 3bet~~
+23. ~~AK/QQ not 4bet MP 3bet~~
 24. MP open, Hero at BTN 3bet with AKs, BTN small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
 25. BB 3bet push 100BB, should hero call with JJ?
 
@@ -41,13 +41,13 @@
 11. BB vs SB, not raise cbet with gut shot on lower connected board. e.g. Qc7h on 8h9h5c
 12. SB vs BB, cbet should be half pot, unless intentionally trying to induce bluff
 13. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
-14. BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)
+14. ~~BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)~~
 15. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
 16. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
 17. QQ call 3bet IP, call 1/2 pot cbet on A high board (e.g. Ad9d2s, even as strong as QQ should be a fold)
 18. BTN vs MP single raised pot, JJ call 60% pot cbet on A high board. (MP has a strong range, JJ should fold)
 19. Multiway pot, cbet small with nutty hand (should always check raise, if flop check through, turn still check raise)
-20. Multiway pot, check top pair on A high K high board. (KJ on KT5, AQ on A56 should bet 1/3, overpair on lower board should check)
+20. ~~Multiway pot, check top pair on A high K high board. (KJ on KT5, AQ on A56 should bet 1/3, overpair on lower board should check)~~
 21. QQ in 4bet pot check on JT8 flop because of fearing running into JJ/TT. (Should cbet 1/2 pot, and shove the turn. If running into JJ/TT so be it. Giving a free card and let villain catch up is a huge mistake)
 22. BB vs SB, top pair good kicker not bet after SB check (e.g KT on K42, should half pot/call)
 23. KQs call 1/2 pot cbet OOP in 3bet pot with only back door flush and two over. e.g KsQs on 5s5d4d (This hand should fold, the weakest hand to call is Ax with back door flush)
@@ -69,7 +69,7 @@
 1. Fold pair on 4 flush board getting riduculous good odds
 2. River not triple barrel on super scary card (Td4c6c2h3h)
 3. Can't fold trip on flush board
-4. Call with A high on the turn and on the river
+4. ~~Call with A high on the turn and on the river~~
 5. 3bet pot, river value bet TPTK (AK) when back door flush completes. (Should only value bet 2pair+)
 6. Overplay small full house (see villain has pot commited, shove small full house then run into bigger full house)
 7. Rainbow dry board is good to triple barrel. From villain's perspective, there is not many busted draws
@@ -77,11 +77,11 @@
 9. SB vs BB, not value bet 2 pair when possible flush completes on river (e.g Kc8h on KhQs5s4h8s, should pot bet/fold)
 10. Check call flop and turn, then lead river on 4 card to a flush board (e.g. KsJh on 4s2sQsJsKh, should check call the river)
 11. Afraid of bluffing the river when holding no showdown (e.g. 6s7s on Js4c2hKc3s, good candidates to triple barrel because it doesn't block flush draw, and it blocks nut straight, and it has no showdown value)
-12. BB vs BTN, Top pair not value bet after villain cbet flop then checks back
+12. BB vs BTN, Top pair not value bet on the river after villain cbet flop then checks back
 13. Flop check through, turn bluff, then river completes back door flush is usually a good card to bluff.
 14. Feel uncomfortable calling overbet with just one pair
 15. On 4 card to straight board (e.g. 789JA), OOP can bet small with merged range, but IP should always polar targeting villain's two pair, and can be balanced with lots of bluffs. Betting small IP makes no sense, very hard to balance with bluffs)
-16. SB vs BB, river check the nuts. 
+16. SB vs BB, river check the nuts after cbet flop and turn. (Must check with a very good reason, if cannot find the reason then keep betting) 
 
 ## Obeservation and thoughts:
 
@@ -112,6 +112,6 @@
 ## Snowie profitable line
 
 1. EP middle set profitable line: check/call, check/raise, pot. 
-2. 3 bet pot profTop two pot size bet, half pot improving to full house, river all in. 
+2. 3 bet pot flop Top two pot size bet, half pot improving to full house, river all in. 
 3. Straight overbet the turn to target two pair
 4. BB overbet trip on the turn after flop checks through
