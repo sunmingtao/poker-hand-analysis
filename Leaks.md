@@ -115,3 +115,4 @@
 2. 3 bet pot flop Top two pot size bet, half pot improving to full house, river all in. 
 3. Straight overbet the turn to target two pair
 4. BB overbet trip on the turn after flop checks through
+5. BB flops flush, flop check through, turn should check again.
