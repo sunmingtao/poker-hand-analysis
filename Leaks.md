@@ -106,6 +106,7 @@
 20. Overbet nut straight, but half pot full house that blocks top pair 
 21. Called too much when "I know I am beat, but I can't fold". 
 22. After losing a buy in or more, I find myself unable to make the fold I am supposed to make. 
+23. When there is three broad way cards, facing river psb, one pair is never good. Only top two plus should consider calling. 
 
 ## Snowie profitable line
 
