@@ -5,26 +5,27 @@
 3. AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet, AQo/AQs/KQs/KJs/QJs call, TT/JJ/AKo 4bet fold, QQ+/AKs 4bet call)
 4. ~~88/99 at SB squeeze MP/CO open (TT+ should squeeze)~~
 5. 88/99 at BB not squeeze BTN open. (66+ should squeeze)
-6. ~~TT/JJ cold 4bet MP open, BTN 3bet (TT should fold, JJ should call)~~
-7. 89s, 55 call large 3bet (4x+ hero open)
-8. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
-9. AQo call all in BB vs SB against 50BB short stacker
-10. Use A6s-A9s, TJ+ to isolate limp short stack fish (At least use AT+,KJs)
-11. Not use A5s+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish, TJs,55-99 is call)
-12. ~~A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o~~
-13. ~~KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)~~
-14. ~~AJo/KQo at CO call SB 3bet~~
-15. ~~KTs at BTN 3bet MP open (should 3bet KJs+)~~
-16. SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. 
-17. ~~SB vs BB, 22 should fold, 33/44 should limp/call~~
-18. ~~BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
-19. ~~3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
-20. AQo at BB not squeeze UTG open, BTN call (Playing AQo OOP is difficult multiple, even hitting TPTK on dry board you don't know if it's good facing aggression)
-21. AQo at CO not 3bet MP open. 
-22. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
-23. ~~AK/QQ not 4bet MP 3bet~~
-24. MP open, Hero at BTN 3bet with AKs, BTN small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
-25. BB 3bet push 100BB, should hero call with JJ?
+6. 88/99 at BB not squuze MP short stacker open.
+7. ~~TT/JJ cold 4bet MP open, BTN 3bet (TT should fold, JJ should call)~~
+8. 89s, 55 call large 3bet (4x+ hero open)
+9. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
+10. AQo call all in BB vs SB against 50BB short stacker
+11. Use A6s-A9s, TJ+ to isolate limp short stack fish (At least use AT+,KJs)
+12. Not use A5s+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish, TJs,55-99 is call)
+13. ~~A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o~~
+14. ~~KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)~~
+15. ~~AJo/KQo at CO call SB 3bet~~
+16. ~~KTs at BTN 3bet MP open (should 3bet KJs+)~~
+17. SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. 
+18. ~~SB vs BB, 22 should fold, 33/44 should limp/call~~
+19. ~~BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
+20. ~~3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
+21. AQo at BB not squeeze UTG open, BTN call (Playing AQo OOP is difficult multiple, even hitting TPTK on dry board you don't know if it's good facing aggression)
+22. AQo at CO not 3bet MP open. 
+23. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
+24. ~~AK/QQ not 4bet MP 3bet~~
+25. MP open, Hero at BTN 3bet with AKs, BTN small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
+26. BB 3bet push 100BB, should hero call with JJ?
 
 ## Flop
 
