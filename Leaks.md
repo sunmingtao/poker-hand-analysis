@@ -52,6 +52,7 @@
 22. BB vs SB, top pair good kicker not bet after SB check (e.g KT on K42, should half pot/call)
 23. KQs call 1/2 pot cbet OOP in 3bet pot with only back door flush and two over. e.g KsQs on 5s5d4d (This hand should fold, the weakest hand to call is Ax with back door flush)
 24. Check raise top set. (Top set should always check call down, unless villain is pot committed)
+25. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
 
 ## Turn
 
