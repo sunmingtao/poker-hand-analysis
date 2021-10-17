@@ -118,3 +118,4 @@
 3. Straight overbet the turn to target two pair
 4. BB overbet trip on the turn after flop checks through
 5. BB flops flush, flop check through, turn should check again.
+6. Top pair plus draw bet big (A9 on A678 after flop checks through)
