@@ -119,3 +119,5 @@
 4. BB overbet trip on the turn after flop checks through
 5. BB flops flush, flop check through, turn should check again.
 6. Top pair plus draw bet big (A9 on A678 after flop checks through)
+7. Turn bet pot on relatively wet board with top pair even weak kicker, check back river
+8. IP always bet set big, even top set, at least pot, or even 2*pot. 
