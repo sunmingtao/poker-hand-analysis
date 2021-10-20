@@ -110,6 +110,7 @@
 21. Called too much when "I know I am beat, but I can't fold". 
 22. After losing a buy in or more, I find myself unable to make the fold I am supposed to make. 
 23. When there is three broad way cards, facing river psb, one pair is never good. Only top two plus should consider calling. 
+24. After check raise the turn, even not holding the nuts, still should bet large to balance the bluffs. Don't hope villain to bluff or thin value bet. 
 
 ## Snowie profitable line
 
