@@ -34,10 +34,10 @@
 2. K high with backdoor equity check call 1/3 on A high board, or call 1/2 on paired board. 
 3. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
 4. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
-5. Strong top pair not check raise BB vs BTN
-6. Weak top pair check raise BB vs SB
+5. ~~Strong top pair not check raise BB vs BTN~~
+6. ~~Weak top pair check raise BB vs SB~~
 7. Call large bet to draw lower end straight. e.g 75 on 89T (shouldn't call even IP)
-8. MP vs BTN, should cbet top two quite small on TJK (why?)
+8. MP vs BTN, should cbet top two quite small on TJK (because the board favours MP's range)
 9. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
 10. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
 11. BB vs SB, not raise cbet with gut shot on lower connected board. e.g. Qc7h on 8h9h5c
@@ -63,7 +63,7 @@
 3. After villain check raises on the flop, then check the turn, should either bet 1/4 - 1/3 or check. Don't bet 1/2 unless super strong hand. 
 4. Villain min bet turn, then bet river usually has it. Cannot call with A high.
 5. Call big bet OOP to draw nuts
-6. Don't know how to play TT on QQ54 in 3bet pot OOP. (TT should be played no differently from KK/AA, if villan's got an Q, then let me win)
+6. Don't know how to play TT on QQ54 in 3bet pot OOP. (Should bet small/fold, river check/fold)
 7. Bet small when turned flush in multiway pot. (Should check raise to build the pot)
 8. Check nuts oop on the turn on super dry board, or super wet board (e.g KQ on QQ77, AsKh on QsJs9s5s, they should continue betting half pot to extract value)
 
