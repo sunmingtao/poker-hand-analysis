@@ -85,6 +85,7 @@
 14. Feel uncomfortable calling overbet with just one pair
 15. On 4 card to straight board (e.g. 789JA), OOP can bet small with merged range, but IP should always polar targeting villain's two pair, and can be balanced with lots of bluffs. Betting small IP makes no sense, very hard to balance with bluffs)
 16. SB vs BB, river check the nuts after cbet flop and turn. (Must check with a very good reason, if cannot find the reason then keep betting) 
+17. Small pair cbet small on mono flop, check back turn, river completes 4 card flush, villain checks, it's a good chance to turn small pair into bluff. Bet 1/3. (e.g. 55 on AsKs7s4d8s)
 
 ## Obeservation and thoughts:
 
