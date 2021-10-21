@@ -125,3 +125,4 @@
 9. BB vs SB, SB check, BB bets small, check two pair on the turn (where straight is possible), pot river. 
 10. 4bet 88 OOP, check middle set on K high board 3 times. 
 11. Turn bet small to draw flush, when flush completes on paired board check call large bet, check raise small bet. 
+12. Play nut straight as if it's nuts on flush board. 
