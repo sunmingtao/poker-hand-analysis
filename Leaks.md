@@ -114,6 +114,7 @@
 23. When there is three broad way cards, facing river psb, one pair is never good. Only top two plus should consider calling. 
 24. After check raise the turn, even not holding the nuts, still should bet large to balance the bluffs. Don't hope villain to bluff or thin value bet. 
 25. Need to respect the pot size bet from a strong range. 
+26. Don't over play set. e.g overbet or big check raise on the board where there is straight possibility. 
 
 ## Snowie profitable line
 
