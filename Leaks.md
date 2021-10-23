@@ -30,31 +30,33 @@
 
 ## Flop
 
-1. Weak A high without even backdoor equity, check call 1/3 - half pot bet
-2. K high with backdoor equity check call 1/3 on A high board, or call 1/2 on paired board. 
-3. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
-4. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
-5. ~~Strong top pair not check raise BB vs BTN~~
-6. ~~Weak top pair check raise BB vs SB~~
-7. Call large bet to draw lower end straight. e.g 75 on 89T (shouldn't call even IP)
-8. MP vs BTN, should cbet top two quite small on TJK (because the board favours MP's range)
-9. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
-10. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
-11. BB vs SB, not raise cbet with gut shot on lower connected board. e.g. Qc7h on 8h9h5c
-12. SB vs BB, cbet should be half pot, unless intentionally trying to induce bluff
-13. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
-14. ~~BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)~~
-15. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
-16. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
-17. QQ call 3bet IP, call 1/2 pot cbet on A high board (e.g. Ad9d2s, even as strong as QQ should be a fold)
-18. BTN vs MP single raised pot, JJ call 60% pot cbet on A high board. (MP has a strong range, JJ should fold)
-19. Multiway pot, cbet small with nutty hand (should always check raise, if flop check through, turn still check raise)
-20. ~~Multiway pot, check top pair on A high K high board. (KJ on KT5, AQ on A56 should bet 1/3, overpair on lower board should check)~~
-21. QQ in 4bet pot check on JT8 flop because of fearing running into JJ/TT. (Should cbet 1/2 pot, and shove the turn. If running into JJ/TT so be it. Giving a free card and let villain catch up is a huge mistake)
-22. BB vs SB, top pair good kicker not bet after SB check (e.g KT on K42, should half pot/call)
-23. KQs call 1/2 pot cbet OOP in 3bet pot with only back door flush and two over. e.g KsQs on 5s5d4d (This hand should fold, the weakest hand to call is Ax with back door flush)
-24. Check raise top set. (Top set should always check call down, unless villain is pot committed)
-25. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
+1. ~~Weak A high without even backdoor equity, check call 1/3 - half pot bet~~
+2. AT,A8 A high check call more than 1/2 pot stab, e.g. ATo on 749, A8 on 774.
+3. 2nd pair call psb in multiway pot. e.g 77 on Q33. 
+4. K high with backdoor equity check call 1/3 on A high board, or call 1/2 on paired board. 
+5. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
+6. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
+7. ~~Strong top pair not check raise BB vs BTN~~
+8. ~~Weak top pair check raise BB vs SB~~
+9. Call large bet to draw lower end straight. e.g 75 on 89T (shouldn't call even IP)
+10. MP vs BTN, should cbet top two quite small on TJK (because the board favours MP's range)
+11. Not raise bottom set in 3bet pot on Jhigh flop (When raise, raise half pot, the goal is to get it in on the turn)
+12. BB vs SB, not raise cbet with flush draw on paired board. e.g. Ts4s on 7s9h9s
+13. BB vs SB, not raise cbet with gut shot on lower connected board. e.g. Qc7h on 8h9h5c
+14. SB vs BB, cbet should be half pot, unless intentionally trying to induce bluff
+15. SB vs BB, not cbet on board favours SB's range like 78 on KQ5. 
+16. ~~BB vs SB, when deep stacked, raise cbet on board that SB has a big nuts advantage (KKQ, or KQ8)~~
+17. Call check raise with gut shot on flush draw board (e.g. QsTc on 5c7c9h)
+18. 22 calls half pot cbet on 469r (even if a lower board, 22 should still be a fold)
+19. QQ call 3bet IP, call 1/2 pot cbet on A high board (e.g. Ad9d2s, even as strong as QQ should be a fold)
+20. BTN vs MP single raised pot, JJ call 60% pot cbet on A high board. (MP has a strong range, JJ should fold)
+21. Multiway pot, cbet small with nutty hand (should always check raise, if flop check through, turn still check raise)
+22. ~~Multiway pot, check top pair on A high K high board. (KJ on KT5, AQ on A56 should bet 1/3, overpair on lower board should check)~~
+23. QQ in 4bet pot check on JT8 flop because of fearing running into JJ/TT. (Should cbet 1/2 pot, and shove the turn. If running into JJ/TT so be it. Giving a free card and let villain catch up is a huge mistake)
+24. BB vs SB, top pair good kicker not bet after SB check (e.g KT on K42, should half pot/call)
+25. KQs call 1/2 pot cbet OOP in 3bet pot with only back door flush and two over. e.g KsQs on 5s5d4d (This hand should fold, the weakest hand to call is Ax with back door flush)
+26. Check raise top set. (Top set should always check call down, unless villain is pot committed)
+27. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
 
 ## Turn
 
