@@ -132,3 +132,4 @@
 10. 4bet 88 OOP, check middle set on K high board 3 times. 
 11. Turn bet small to draw flush, when flush completes on paired board check call large bet, check raise small bet. 
 12. Play nut straight as if it's nuts on flush board. 
+13. 3bet BTN vs MP, KK cbet pot on 333 flop. 
