@@ -2,21 +2,21 @@
 
 1. ~~KQo at BTN/SB squeeze MP/CO open~~
 2. ~~KQo not 3bet BB vs SB~~
-3. AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet, AQo/AQs/KQs/KJs/QJs call, TT/JJ/AKo 4bet fold, QQ+/AKs 4bet call)
+3. ~~AJo/KQo at CO call or 4bet BTN's 3bet(They should all fold, even to a 3x 3bet, AQo/AQs/KQs/KJs/QJs call, TT/JJ/AKo 4bet fold, QQ+/AKs 4bet call)~~
 4. ~~88/99 at SB squeeze MP/CO open (TT+ should squeeze)~~
 5. 88/99 at BB not squeeze BTN open. (66+ should squeeze)
 6. 88/99 at BB not squuze MP short stacker open.
 7. ~~TT/JJ cold 4bet MP open, BTN 3bet (TT should fold, JJ should call)~~
 8. 89s, 55 call large 3bet (4x+ hero open)
 9. AQo not cold 4bet BTN open, SB 3bet, (Should half pot cold 4bet) 
-10. AQo call all in BB vs SB against 50BB short stacker
-11. Use A6s-A9s, TJ+ to isolate limp short stack fish (At least use AT+,KJs)
-12. Not use A5s+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish, TJs,55-99 is call)
+10. ~~AQo call all in BB vs SB against 50BB short stacker~~
+11. ~~Use A6s-A9s, TJ+ to isolate limp short stack fish (At least use AT+,KJs)~~
+12. ~~Not use A5s+ to isolate limper big stack (Should use A2+,AT+,KJs+,KJo,TT+,etc to isolate big stack fish, TJs,55-99 is call)~~
 13. ~~A7o at BB call BTN 3x open (At least use A8o), if 2.5x open, use A3o~~
 14. ~~KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)~~
 15. ~~AJo/KQo at CO call SB 3bet~~
 16. ~~KTs at BTN 3bet MP open (should 3bet KJs+)~~
-17. SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. 
+17. ~~SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. ~~
 18. ~~SB vs BB, 22 should fold, 33/44 should limp/call~~
 19. ~~BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
 20. ~~3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
@@ -24,9 +24,10 @@
 22. AQo at CO not 3bet MP open. 
 23. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
 24. ~~AK/QQ not 4bet MP 3bet~~
-25. MP open, Hero at BTN 3bet with AKs, BTN small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
-26. BB 3bet push 100BB, should hero call with JJ? (Yes, JJ is a call)
+25. MP open, Hero at BTN 3bet with AKs, SB small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
+26. BB 3bet push 100BB, should hero at BTN call with JJ? (Yes, JJ is a call)
 27. QTs at MP call BB 3bet (QJs is also a fold, should call with KJs)
+28. Not knowing SB's 3 bet range is different between BTN open 3x or 2.5x. 
 
 ## Flop
 
@@ -60,9 +61,9 @@
 
 ## Turn
 
-1. A high call large bet on double paired board
+1. ~~A high call large bet on double paired board~~
 2. After check top set (QQ) on the flop, when turn is A, should 2x bet, targeting villain's top pair
-3. After villain check raises on the flop, then check the turn, should either bet 1/4 - 1/3 or check. Don't bet 1/2 unless super strong hand. 
+3. ~~After villain check raises on the flop, then check the turn, should either bet 1/4 - 1/3 or check. Don't bet 1/2 unless super strong hand. ~~
 4. Villain min bet turn, then bet river usually has it. Cannot call with A high.
 5. Call big bet OOP to draw nuts
 6. Don't know how to play TT on QQ54 in 3bet pot OOP. (Should bet small/fold, river check/fold)
@@ -86,8 +87,9 @@
 13. Flop check through, turn bluff, then river completes back door flush is usually a good card to bluff.
 14. Feel uncomfortable calling overbet with just one pair
 15. On 4 card to straight board (e.g. 789JA), OOP can bet small with merged range, but IP should always polar targeting villain's two pair, and can be balanced with lots of bluffs. Betting small IP makes no sense, very hard to balance with bluffs)
-16. SB vs BB, river check the nuts after cbet flop and turn. (Must check with a very good reason, if cannot find the reason then keep betting) 
+16. ~~SB vs BB, river check the nuts after cbet flop and turn. (Must check with a very good reason, if cannot find the reason then keep betting) ~~
 17. Small pair cbet small on mono flop, check back turn, river completes 4 card flush, villain checks, it's a good chance to turn small pair into bluff. Bet 1/3. (e.g. 55 on AsKs7s4d8s)
+18. **Afraid of calling down with top pair weak kicker. e.g. UTG vs BTN, A9 check call, check call, check fold on A338K**
 
 ## Obeservation and thoughts:
 
