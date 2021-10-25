@@ -58,6 +58,7 @@
 25. KQs call 1/2 pot cbet OOP in 3bet pot with only back door flush and two over. e.g KsQs on 5s5d4d (This hand should fold, the weakest hand to call is Ax with back door flush)
 26. Check raise top set. (Top set should always check call down, unless villain is pot committed)
 27. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
+28. A high cbet wet board (A3 cbet Jc9c5d)
 
 ## Turn
 
