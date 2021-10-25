@@ -93,6 +93,7 @@
 19. **Over call in 3 street hand, e.g. A5 call down on A5QT3, or AK call down on AQ57J**
 20. **Over fold in 2 street hand (flop or turn checks through, e.g. KQ fold on K647J, A5 fold on T5776)**
 21. **Over call check raise in multiway pot**
+22. Middle pair small block bet in 3bet pot after turn checks through
 
 ## Obeservation and thoughts:
 
