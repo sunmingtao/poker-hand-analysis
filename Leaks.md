@@ -139,8 +139,10 @@
 
 ## BTN vs BB, flop check through, BB turn stab
 
-1. No straight or flush possible, two pair+ 2x overbet e.g. A3 on AJ63
-2. Straight is possible, two pair+ PSB. e.g. A3 on AJT3
-3. Middle trip with no flush possible, overbet e.g. 56 on 66A7
-4. Top trip, check min raise
-5. 
+1. No straight or flush possible, two pair+ 2x overbet e.g. A3 on AJ63. All other check. 
+3. One straight is possible, straight 2x overbet. Other check 50% raise. 
+4. Flush is possible. Nut flush 2x overbet. Two pair+ check min raise. 
+5. Low card any trip with no flush possible, 2x overbet e.g. 56 on 66A7
+6. High card middle trip where villain can have full house, psb e.g. JT on QTT6
+7. High card top trip, check min raise, e.g. QT on QQ29
+8. Full house, check call
