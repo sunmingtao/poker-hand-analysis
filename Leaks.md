@@ -136,3 +136,11 @@
 11. Turn bet small to draw flush, when flush completes on paired board check call large bet, check raise small bet. 
 12. Play nut straight as if it's nuts on flush board. 
 13. 3bet BTN vs MP, KK cbet pot on 333 flop. 
+
+## BTN vs BB, flop check through, BB turn stab
+
+1. No straight or flush possible, two pair+ 2x overbet e.g. A3 on AJ63
+2. Straight is possible, two pair+ PSB. e.g. A3 on AJT3
+3. Middle trip with no flush possible, overbet e.g. 56 on 66A7
+4. Top trip, check min raise
+5. 
