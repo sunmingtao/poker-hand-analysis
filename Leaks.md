@@ -120,6 +120,7 @@
 25. Need to respect the pot size bet from a strong range. 
 26. Don't over play set. e.g overbet or big check raise on the board where there is straight possibility. 
 27. A2-A9 has little showdown value even on dry board, when there is a draw should still barrel. 
+28. Turn small, river big is usually bluff. 
 
 ## Snowie profitable line
 
