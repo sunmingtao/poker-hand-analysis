@@ -94,7 +94,7 @@
 18. **Afraid of calling down with top pair weak kicker. e.g. UTG vs BTN, A9 check call, check call, check fold on A338K**
 19. **Over call in 3 street hand, e.g. A5 call down on A5QT3, or AK call down on AQ57J**
 20. **Over fold in 2 street hand (flop or turn checks through, e.g. KQ fold on K647J, A5 fold on T5776)**
-21. **Over call check raise in multiway pot**
+21. **Over call check raise in multiway pot after flop and turn checks through. e.g A9 on AT5Q4**
 22. Middle pair small block bet in 3bet pot after turn checks through
 
 ## Obeservation and thoughts:
@@ -126,7 +126,7 @@
 25. Need to respect the pot size bet from a strong range. 
 26. Don't over play set. e.g overbet or big check raise on the board where there is straight possibility. 
 27. A2-A9 has little showdown value even on dry board, when there is a draw should still barrel. 
-28. Turn small, river big is usually bluff. 
+28. Turn small, river big is usually bluff on lower board. 
 
 ## Snowie profitable line
 
