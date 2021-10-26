@@ -59,6 +59,7 @@
 26. Check raise top set. (Top set should always check call down, unless villain is pot committed)
 27. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
 28. A high cbet wet board (A3 cbet Jc9c5d)
+29. A high call half pot bet on wet board (e.g AsKd on Tc8c6d)
 
 ## Turn
 
