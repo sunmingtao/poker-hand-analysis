@@ -1,3 +1,9 @@
+## Tilt management
+
+1. Take a break after losing a big pot
+2. Keep asking myself "Am I playing my A game right now"?
+3. Be aware that I can be frustrated at keeping losing small pots. 
+
 ## Preflop
 
 1. ~~KQo at BTN/SB squeeze MP/CO open~~
