@@ -154,3 +154,12 @@
 6. High card middle trip where villain can have full house, psb e.g. JT on QTT6
 7. High card top trip, check min raise, e.g. QT on QQ29
 8. Full house, check call
+
+## River call or fold decision should consider factors
+
+1. Villain has a tight range or wide range to begin with? Villain at BB in a single raised pot certainly has a wider range than a UTG 4bet range.
+2. Has any street checked through? If yes, villain has a wider range than both flop and turn having action. 
+3. If villain check call the flop, is the bet small or large? Villain still has a wide range if the bet is small. 
+4. Is the board A/K high? Villain underbluffs on A/K high board, but overbluffs on lower board. 
+5. Is the board very wet, lots of straigh or flush possible? If yes, second pair usualy is not good.
+6. Is it a multiway pot? If yes, villain has a lower bluff frequency than heads up. second pair is usually no good to call. 
