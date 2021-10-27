@@ -16,7 +16,7 @@
 14. ~~KQs/KJs/QJs/AQo at UTG call SB/BB 3bet, (should call with AJs+)~~
 15. ~~AJo/KQo at CO call SB 3bet~~
 16. ~~KTs at BTN 3bet MP open (should 3bet KJs+)~~
-17. ~~SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet. ~~
+17. ~~SB vs BB facing 3bet, 55+, AJo+, ATs+, KJs, QJs should small 4bet. TT+, AK call off 5bet.~~
 18. ~~SB vs BB, 22 should fold, 33/44 should limp/call~~
 19. ~~BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
 20. ~~3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
