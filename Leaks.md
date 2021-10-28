@@ -77,6 +77,7 @@
 6. Don't know how to play TT on QQ54 in 3bet pot OOP. (Should bet small/fold, river check/fold)
 7. Bet small when turned flush in multiway pot. (Should check raise to build the pot)
 8. Check nuts oop on the turn on super dry board, or super wet board (e.g KQ on QQ77, AsKh on QsJs9s5s, they should continue betting half pot to extract value)
+9. SB vs BB, if having showdown value but cannot check call, use block bet. e.g AT on K982. If can check call, then check. e.g. A6 on QQ6K. 
 
 ## River
 
