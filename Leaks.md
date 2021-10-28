@@ -86,6 +86,7 @@
 7. Bet small when turned flush in multiway pot. (Should check raise to build the pot)
 8. Check nuts oop on the turn on super dry board, or super wet board (e.g KQ on QQ77, AsKh on QsJs9s5s, they should continue betting half pot to extract value)
 9. SB vs BB, if having showdown value but cannot check call, use block bet. e.g AT on K982. If can check call, then check. e.g. A6 on QQ6K. 
+10. Check back middle pair on 4 card to flush board (middle pair has no showdown value, should turn it into bluff)
 
 ## River
 
