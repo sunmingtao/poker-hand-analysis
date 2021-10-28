@@ -4,7 +4,15 @@
 2. Keep asking myself "Am I playing my A game right now"?
 3. Be aware that I can be frustrated at keeping losing small pots. 
 
-## Preflop
+## Turn decision processing after villain calls the flop
+
+1. What's the stack pot ratio now? If less than 3, overpair should stack off. e.g. KK on TT55. 
+2. If turn card completes potential flush or straight, bet half pot (bluff or value bet)
+3. If board is dry without pair, overbet with semi bluff and two pair+. e.g. 55,JQ on AK56
+4. If board is dry with pair, bet half pot (bluff or value bet)?
+
+
+## Preflop Leaks
 
 1. ~~KQo at BTN/SB squeeze MP/CO open~~
 2. ~~KQo not 3bet BB vs SB~~
