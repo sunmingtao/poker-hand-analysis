@@ -134,6 +134,7 @@
 26. Don't over play set. e.g overbet or big check raise on the board where there is straight possibility. 
 27. A2-A9 has little showdown value even on dry board, when there is a draw should still barrel. 
 28. Turn small, river big is usually bluff on lower board. 
+29. **The drier the board, the bigger the raise. e.g. raise 2x on A95r with gutshot or set, but 0.5x on QcJc8d with QJ or flush draw.**
 
 ## Snowie profitable line
 
