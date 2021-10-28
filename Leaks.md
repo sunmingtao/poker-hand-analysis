@@ -103,7 +103,7 @@
 20. **Over fold in 2 street hand (flop or turn checks through, e.g. KQ fold on K647J, A5 fold on T5776)**
 21. **Over call check raise in multiway pot after flop and turn checks through. e.g A9 on AT5Q4**
 22. Middle pair small block bet in 3bet pot after turn checks through
-23. Must resist the urge to block bet OOP. 
+23. **Must resist the urge to block bet OOP.**
 
 ## Obeservation and thoughts:
 
