@@ -11,6 +11,10 @@
 3. If board is dry without pair, overbet with semi bluff and two pair+. e.g. 55,JQ on AK56
 4. If board is dry with pair, bet half pot (bluff or value bet)?
 
+## Flop check raise sizing guideline
+
+1. Never raise big on wet board even with the nuts, because the turn can change the board dramatically. If turn is a safe card, then fire big. 
+2. Dry board should raise big over small bet, raise small over big bet. e.g. pot size raise 1/3 pot cbet, but min raise PSB cbet. 
 
 ## Preflop Leaks
 
