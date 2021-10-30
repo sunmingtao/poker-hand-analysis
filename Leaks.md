@@ -185,3 +185,5 @@
 4. Is the board A/K high? Villain underbluffs on A/K high board, but overbluffs on lower board. 
 5. Is the board very wet, lots of straigh or flush possible? If yes, second pair usualy is not good.
 6. Is it a multiway pot? If yes, villain has a lower bluff frequency than heads up. second pair is usually no good to call. 
+
+## When to 2x the river OOP (Villain bets the flop then checks back the turn)
