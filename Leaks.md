@@ -78,6 +78,7 @@
 27. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
 28. A high cbet wet board (A3 cbet Jc9c5d)
 29. A high call half pot bet on wet board (e.g AsKd on Tc8c6d)
+30. QQ call half pot bet on A high board in multiway pot (e.g. QQ on AJ68)
 
 ## Turn
 
