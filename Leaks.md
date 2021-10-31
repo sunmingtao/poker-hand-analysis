@@ -189,3 +189,5 @@
 6. Is it a multiway pot? If yes, villain has a lower bluff frequency than heads up. second pair is usually no good to call. 
 
 ## When to 2x the river OOP (Villain bets the flop then checks back the turn)
+
+1. When river is a A or K
