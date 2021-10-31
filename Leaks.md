@@ -168,6 +168,7 @@
 11. Turn bet small to draw flush, when flush completes on paired board check call large bet, check raise small bet. 
 12. Play nut straight as if it's nuts on flush board. 
 13. 3bet BTN vs MP, KK cbet pot on 333 flop. 
+14. BTN vs BB, Q2Q46, cbet 1/4, turn 1/4, river pot as bluff. 
 
 ## BTN vs BB, flop check through, BB turn stab
 
