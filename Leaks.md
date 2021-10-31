@@ -171,6 +171,8 @@
 
 ## BTN vs BB, flop check through, BB turn stab
 
+Never 2x when there is front flush draw, because it's too obvious. 
+
 1. No straight or flush possible, two pair+ 2x overbet e.g. A3 on AJ63. All other check. 
 3. One straight is possible, straight 2x overbet. Other check 50% raise. 
 4. Flush is possible. Nut flush 2x overbet. Two pair+ check min raise. 
