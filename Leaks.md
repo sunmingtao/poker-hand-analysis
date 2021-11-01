@@ -93,6 +93,8 @@
 9. SB vs BB, if having showdown value but cannot check call, use block bet. e.g AT on K982. If can check call, then check. e.g. A6 on QQ6K. 
 10. Check back middle pair on 4 card to flush board (middle pair has no showdown value, should turn it into bluff)
 11. Not realise weak A high on wet board has no show down value, e.g. A4 on J953. It's better to bet to generate fold equity. 
+12. Check back board where top card pairs, e.g. TT65, or QQ45, should bet small
+13. Check back 4 card to straight board, e.g. AA on 5678, should bet small and fold to a raise. 
 
 ## River
 
