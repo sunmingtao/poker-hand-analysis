@@ -172,6 +172,7 @@
 12. Play nut straight as if it's nuts on flush board. 
 13. 3bet BTN vs MP, KK cbet pot on 333 flop. 
 14. BTN vs BB, Q2Q46, cbet 1/4, turn 1/4, river pot as bluff. 
+15. 3bet top set on dry board IP. BB vs SB, 3bet bottom two. 
 
 ## BTN vs BB, flop check through, BB turn stab
 
