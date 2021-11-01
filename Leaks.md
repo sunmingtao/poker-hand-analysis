@@ -48,6 +48,7 @@
 26. BB 3bet push 100BB, should hero at BTN call with JJ? (Yes, JJ is a call)
 27. QTs at MP call BB 3bet (QJs is also a fold, should call with KJs)
 28. Not knowing SB's 3 bet range is different between BTN open 3x or 2.5x. 
+29. 
 
 ## Flop
 
