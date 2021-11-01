@@ -154,6 +154,7 @@
 28. Turn small, river big is usually bluff on lower board. 
 29. **The drier the board, the bigger the raise. e.g. raise 2x on A95r with gutshot or set, but 0.5x on QcJc8d with QJ or flush draw, even the nuts. Because the board can change dramatically on the turn, we want to give ourselves room to fold.**
 30. Should always keep in mind that villain has small pocket pairs in his range if flop small bet call or checks through. 
+31. **When SPR is less than 3, never fold overpair**
 
 ## Snowie profitable line
 
