@@ -11,6 +11,7 @@
 3. If board is dry without pair, overbet with semi bluff and two pair+. e.g. 55,JQ on AK56
 4. If board is dry with top card paired, bet 1/4 pot
 5. If board is dry with middle card paired on the turn, check back or pot?
+6. If 4 card to a straight or 4 card to a flush, bet 1/4 pot. 
 
 ## Flop check raise sizing guideline
 
@@ -55,7 +56,7 @@
 3. 2nd pair call psb in multiway pot. e.g 77 on Q33. 
 4. K high with backdoor equity check call 1/3 on A high board, or call 1/2 on paired board. 
 5. Third pair check call 1/3 pot on A high flop. e.g. 77 on AT5.
-6. AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)
+6. ~~AK high bet 1/2 pot on lower board (should just bet 1/4 - 1/3)~~
 7. ~~Strong top pair not check raise BB vs BTN~~
 8. ~~Weak top pair check raise BB vs SB~~
 9. Call large bet to draw lower end straight. e.g 75 on 89T (shouldn't call even IP)
@@ -75,7 +76,7 @@
 23. QQ in 4bet pot check on JT8 flop because of fearing running into JJ/TT. (Should cbet 1/2 pot, and shove the turn. If running into JJ/TT so be it. Giving a free card and let villain catch up is a huge mistake)
 24. BB vs SB, top pair good kicker not bet after SB check (e.g KT on K42, should half pot/call)
 25. KQs call 1/2 pot cbet OOP in 3bet pot with only back door flush and two over. e.g KsQs on 5s5d4d (This hand should fold, the weakest hand to call is Ax with back door flush)
-26. Check raise top set. (Top set should always check call down, unless villain is pot committed)
+26. ~~Check raise top set. (Top set should always check call down, unless villain is pot committed)~~
 27. CO vs BTN, JTo cbet Q54 flop (Q high flop favours BB flat range, should be a check fold)
 28. A high cbet wet board (A3 cbet Jc9c5d)
 29. A high call half pot bet on wet board (e.g AsKd on Tc8c6d)
