@@ -9,7 +9,8 @@
 1. What's the stack pot ratio now? If less than 3, overpair should stack off. e.g. KK on TT55. 
 2. If turn card completes potential flush or straight, bet half pot (bluff or value bet)
 3. If board is dry without pair, overbet with semi bluff and two pair+. e.g. 55,JQ on AK56
-4. If board is dry with pair, bet pot (bluff or value bet)?
+4. If board is dry with top card paired, bet 1/4 pot
+5. If board is dry with middle card paired on the turn, check back or pot?
 
 ## Flop check raise sizing guideline
 
