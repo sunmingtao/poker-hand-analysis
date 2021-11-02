@@ -41,14 +41,14 @@
 19. ~~BTN vs SB, JJ/AKo should 4bet fold, QQ+/AKs are 4bet call~~
 20. ~~3bet KJo at SB vs BTN (KJo is fold, AJo is 3bet)~~
 21. AQo at BB not squeeze UTG open, BTN call (Playing AQo OOP is difficult multiple, even hitting TPTK on dry board you don't know if it's good facing aggression)
-22. AQo at CO not 3bet MP open. 
+22. ~~AQo at CO not 3bet MP open.~~
 23. BB 3bet SB, SB 4bet All in 100BB, BB should call QQ+/AK. 
 24. ~~AK/QQ not 4bet MP 3bet~~
 25. MP open, Hero at BTN 3bet with AKs, SB small cold 4bet, Hero flats (Should 5 bet all in with AKs, but fold AKo, and flat QQ)
 26. BB 3bet push 100BB, should hero at BTN call with JJ? (Yes, JJ is a call)
 27. QTs at MP call BB 3bet (QJs is also a fold, should call with KJs)
 28. Not knowing SB's 3 bet range is different between BTN open 3x or 2.5x. 
-29. 
+29. **AKs at SB/BB 5bet shove EP/MP big4 4bet, (EP/MP has a very strong range as they will call AK/QQ, AKo should fold, AKs should call) **
 
 ## Flop
 
