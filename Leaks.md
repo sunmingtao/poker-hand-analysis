@@ -48,7 +48,7 @@
 26. BB 3bet push 100BB, should hero at BTN call with JJ? (Yes, JJ is a call)
 27. QTs at MP call BB 3bet (QJs is also a fold, should call with KJs)
 28. Not knowing SB's 3 bet range is different between BTN open 3x or 2.5x. 
-29. **AKs at SB/BB 5bet shove EP/MP big4 4bet, (EP/MP has a very strong range as they will call AK/QQ, AKo should fold, AKs should call) **
+29. **AKs at SB/BB 5bet shove EP/MP big4 4bet, (EP/MP has a very strong range as they will call AK/QQ, AKo should fold, AKs should call)**
 
 ## Flop
 
@@ -184,7 +184,7 @@ Never 2x when there is front flush draw, because it's too obvious.
 
 1. No straight or flush possible, two pair+ 2x overbet e.g. A3 on AJ63. All other check. 
 3. One straight is possible, straight 2x overbet. Other check 50% raise. 
-4. Flush is possible. Nut flush 2x overbet. Two pair+ check min raise. 
+4. Flush is possible. Nut flush, Good flush draw 2x overbet. Two pair+ check min raise. 
 5. Low card any trip with no flush possible, 2x overbet e.g. 56 on 66A7
 6. High card middle trip where villain can have full house, psb e.g. JT on QTT6
 7. High card top trip, check min raise, e.g. QT on QQ29
