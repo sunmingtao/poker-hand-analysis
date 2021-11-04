@@ -148,7 +148,7 @@
 19. SB vs BB, turn should check raise nuts, especially when board favours villain's range (e.g. 89 on 5673)
 20. Overbet nut straight, but half pot full house that blocks top pair 
 21. Called too much when "I know I am beat, but I can't fold". 
-22. After losing a buy in or more, I find myself unable to make the fold I am supposed to make. 
+22. **After losing a buy in or more, I find myself unable to make the fold I am supposed to make. And unable to make small bet when holding nutty hand.**
 23. When there is three broad way cards, facing river psb, one pair is never good. Only top two plus should consider calling. 
 24. After check raise the turn, even not holding the nuts, still should bet large to balance the bluffs. Don't hope villain to bluff or thin value bet. 
 25. Need to respect the pot size bet from a strong range. 
@@ -159,7 +159,7 @@
 30. Should always keep in mind that villain has small pocket pairs in his range if flop small bet call or checks through. 
 31. **When SPR is less than 3, never fold overpair**
 32. **Some villains like to bluff raise over 60%-75% pot bet, repping backdoor flush etc**
-33. When villain gives up betting initiatives, hero should stab A/K/Q high board with at least half pot intending to fold out middle pair. Betting 1/4 -1/3 pot achieves nothing. 
+33. In 3bet pot, When villain gives up betting initiatives, hero should stab A/K/Q high board with at least half pot intending to fold out middle pair. Betting 1/4 -1/3 pot achieves nothing. 
 
 ## Snowie profitable line
 
