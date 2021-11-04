@@ -202,5 +202,7 @@ Never 2x when there is front flush draw, because it's too obvious.
 
 ## When to 2x the river OOP (Villain bets the flop then checks back the turn)
 
+Only 1 or 2 broadway card.
+
 1. When river is a A or K, board is paired, and completes flush
 2. When river is not A, single paird board, no flush, no straight 
