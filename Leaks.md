@@ -160,6 +160,7 @@
 31. **When SPR is less than 3, never fold overpair**
 32. **Some villains like to bluff raise over 60%-75% pot bet, repping backdoor flush etc**
 33. In 3bet pot, When villain gives up betting initiatives, hero should stab A/K/Q high board with at least half pot intending to fold out middle pair. Betting 1/4 -1/3 pot achieves nothing. 
+34. **Deep stack, afraid of firing TPTK+ multiple streets for value**
 
 ## Snowie profitable line
 
