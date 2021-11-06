@@ -82,6 +82,7 @@
 28. A high cbet wet board (A3 cbet Jc9c5d)
 29. A high call half pot bet on wet board (e.g AsKd on Tc8c6d)
 30. QQ call half pot bet on A high board in multiway pot (e.g. QQ on AJ68)
+31. QT cbet half pot on AAJ (should either check or bet 1/4 on top card paird board)
 
 ## Turn
 
@@ -162,6 +163,7 @@
 32. **Some villains like to bluff raise over 60%-75% pot bet, repping backdoor flush etc**
 33. In 3bet pot, When villain gives up betting initiatives, hero should stab A/K/Q high board with at least half pot intending to fold out middle pair. Betting 1/4 -1/3 pot achieves nothing. 
 34. **Deep stack, afraid of firing TPTK+ multiple streets for value**
+35. **Always asking what villain's range is, and betting is targeting which part of the range**
 
 ## Snowie profitable line
 
