@@ -115,7 +115,7 @@
 11. Afraid of bluffing the river when holding no showdown (e.g. 6s7s on Js4c2hKc3s, good candidates to triple barrel because it doesn't block flush draw, and it blocks nut straight, and it has no showdown value)
 12. BB vs BTN, Top pair not value bet on the river after villain cbet flop then checks back
 13. Flop check through, turn bluff, then river completes back door flush is usually a good card to bluff.
-14. Feel uncomfortable calling overbet with just one pair
+14. ~~Feel uncomfortable calling overbet with just one pair~~
 15. On 4 card to straight board (e.g. 789JA), OOP can bet small with merged range, but IP should always polar targeting villain's two pair, and can be balanced with lots of bluffs. Betting small IP makes no sense, very hard to balance with bluffs)
 16. ~~SB vs BB, river check the nuts after cbet flop and turn. (Must check with a very good reason, if cannot find the reason then keep betting) ~~
 17. Small pair cbet small on mono flop, check back turn, river completes 4 card flush, villain checks, it's a good chance to turn small pair into bluff. Bet 1/3. (e.g. 55 on AsKs7s4d8s)
