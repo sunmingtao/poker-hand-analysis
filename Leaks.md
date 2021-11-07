@@ -2,7 +2,7 @@
 
 1. Never fold overpair when SPR is less than 3
 2. Don't check nuts OOP unless with very good reason
-3. Never call with one pair facing river PSB when villain has shown significant strength. e.g. Villain check raise the flop, bet the turn, or check raise the turn, or donk PSB lead the turn.  
+3. Never call with one pair facing river PSB when villain has shown significant strength. e.g. Villain check raise the flop, bet the turn, or check raise the turn, or donk PSB lead the turn.  (stats)
 4. Call down with top pair after hero shows weakness (OOP no cbet, or cbet small, check the turn)
 5. Never call river check raise with middle pair
 6. Always fire TPTK+ IP on the turn no matter how deep it is, if getting raised, refer to rule 3. 
