@@ -6,7 +6,7 @@
 4. Call down with top pair after hero shows weakness (OOP no cbet, or cbet small, check the turn)
 5. Never call river check raise with middle pair
 6. Always fire TPTK+ IP on the turn no matter how deep it is, if getting raised, refer to rule 3. 
-7. It's OK to fold top pair facing big raise (5x)
+7. It's OK to fold top pair facing big raise on A/K high board (5x)
 
 ## Tilt management
 
