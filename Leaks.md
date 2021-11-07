@@ -120,7 +120,7 @@
 16. ~~SB vs BB, river check the nuts after cbet flop and turn. (Must check with a very good reason, if cannot find the reason then keep betting) ~~
 17. Small pair cbet small on mono flop, check back turn, river completes 4 card flush, villain checks, it's a good chance to turn small pair into bluff. Bet 1/3. (e.g. 55 on AsKs7s4d8s)
 18. **Afraid of calling down with top pair weak kicker. e.g. UTG vs BTN, A9 check call, check call, check fold on A338K**
-19. **Over call in 3 street hand, e.g. A5 call down on A5QT3, or AK call down on AQ57J**
+19. **Over call in 3 street hand, especially after villain check raise, then bet/bet. e.g. A5 call down on A5QT3, or AK call down on AQ57J**
 20. **Over fold in 2 street hand (flop or turn checks through, e.g. KQ fold on K647J, A5 fold on T5776)**
 21. **Over call check raise in multiway pot after flop and turn checks through. e.g A9 on AT5Q4**
 22. Middle pair small block bet in 3bet pot after turn checks through
