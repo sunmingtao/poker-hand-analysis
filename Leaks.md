@@ -7,6 +7,7 @@
 5. Never call river check raise with middle pair
 6. Always fire TPTK+ IP on the turn no matter how deep it is, if getting raised, refer to rule 3. 
 7. It's OK to fold top pair facing big raise on A/K high board (5x)
+8. Never call check raise on river after flop and turn checks through
 
 ## Tilt management
 
