@@ -1,3 +1,24 @@
+2021.12.9 - 2022.1.31
+
+1. Trash -18.12
+2. Suited Trash -16.49 
+3. AA 1099.72
+4. KK 726.43
+5. QQ 525.86
+6. JJ 235.77
+7. TT-99 145.94
+8. 88-55 -51.15
+9. 44-22 -11.12
+10. AKs 230.46
+11. AKo 58.86
+12. Suited Broadway 80.48
+13. Offsuit Broadway -0.1
+14. Suited Connector and one gapper -12.9
+15. A9o-A6o -2.04
+16. A5o-A2o -25.64
+17. A9s-A2s -10.94
+18. K9s-K2s 3.33
+
 2021.10.1 - 2021.12.8
 
 1. Trash -18.45
